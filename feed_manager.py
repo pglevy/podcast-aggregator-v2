@@ -71,16 +71,28 @@ class FeedManager:
                             logging.warning(f"No audio URL found for episode: {entry.title}")
                             continue
 
+                        # Debug logging for image sources
+                        logging.debug(f"Feed: {feed['name']}")
+                        logging.debug(f"Media thumbnail: {entry.get('media_thumbnail', [{}])[0].get('url')}")
+                        logging.debug(f"iTunes image: {entry.get('itunes_image', {}).get('href')}")
+                        logging.debug(f"Entry image (getattr): {getattr(entry, 'image', {}).get('href')}")
+                        logging.debug(f"Entry image (get): {entry.get('image', {}).get('href')}")
+                        logging.debug(f"Feed iTunes image: {parsed.feed.get('itunes_image', {}).get('href')}")
+                        logging.debug(f"Feed image (getattr): {getattr(parsed.feed, 'image', {}).get('href')}")
+                        logging.debug(f"Feed image (get): {parsed.feed.get('image', {}).get('href')}")
+                        
                         # Get image with enhanced fallback hierarchy
                         image = (
                             # Episode-specific images
                             entry.get('media_thumbnail', [{}])[0].get('url') or
                             entry.get('itunes_image', {}).get('href') or
                             getattr(entry, 'image', {}).get('href') or
+                            entry.get('image', {}).get('href') or  # Additional check
                             
                             # Feed-level images
                             parsed.feed.get('itunes_image', {}).get('href') or
                             getattr(parsed.feed, 'image', {}).get('href') or
+                            parsed.feed.get('image', {}).get('href') or  # Additional check
                             
                             # Custom fallback per podcast
                             self.custom_fallbacks.get(feed['name']) or
@@ -88,6 +100,8 @@ class FeedManager:
                             # Generic fallback
                             self.generic_fallback
                         )
+                        
+                        logging.debug(f"Final image URL selected: {image}")
                         
                         episode = {
                             'title': entry.title,
