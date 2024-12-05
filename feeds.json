@@ -1,14 +1,54 @@
 [
     {
-        "url": "https://feeds.npr.org/500005/podcast.xml",
-        "name": "NPR News Now"
+        "name": "Founders",
+        "url": "https://feeds.simplecast.com/3hnxp7yk"
     },
     {
-        "url": "https://feeds.npr.org/510298/podcast.xml",
-        "name": "TED Radio Hour"
+        "name": "My First Million",
+        "url": "https://feeds.megaphone.fm/HS2300184645"
     },
     {
-        "url": "https://feed.thisamericanlife.org/talpodcast",
-        "name": "This American Life"
+        "name": "The Long View",
+        "url": "https://feeds.simplecast.com/5SEwkJYi"
+    },
+    {
+        "name": "Bogleheads on Investing",
+        "url": "https://feed.podbean.com/bogleheads/feed.xml"
+    },
+    {
+        "name": "Thoughts on Illustration",
+        "url": "https://feeds.simplecast.com/ELu__LLW"
+    },
+    {
+        "name": "The Jordan B. Peterson Podcast",
+        "url": "https://feeds.simplecast.com/vsy1m5LV"
+    },
+    {
+        "name": "REWORK",
+        "url": "https://feeds.buzzsprout.com/2260539.rss"
+    },
+    {
+        "name": "Acquired",
+        "url": "https://feeds.transistor.fm/acquired"
+    },
+    {
+        "name": "The Art of Manliness",
+        "url": "https://feeds.simplecast.com/azy33G8_"
+    },
+    {
+        "name": "Lex Friedman Podcast",
+        "url": "https://lexfridman.com/feed/podcast/"
+    },
+    {
+        "name": "Finding Our Way",
+        "url": "https://findingourway.design/category/podcast/feed/"
+    },
+    {
+        "name": "The Joe Rogan Experience",
+        "url": "https://feeds.megaphone.fm/GLT1412515089"
+    },
+    {
+        "name": "Against the Rules (Michael Lewis)",
+        "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f4e26994-3ddb-4ec7-b855-ae32006cd5de/ea4fae0c-3282-4cfd-b315-ae32006cd5ec/podcast.rss"
     }
 ]
