@@ -1,10 +1,14 @@
 [
     {
-        "url": "https://feeds.example.com/podcast1/feed.xml",
-        "name": "Example Podcast 1"
+        "url": "https://feeds.npr.org/500005/podcast.xml",
+        "name": "NPR News Now"
     },
     {
-        "url": "https://feeds.example.com/podcast2/feed.xml",
-        "name": "Example Podcast 2"
+        "url": "https://feeds.npr.org/510298/podcast.xml",
+        "name": "TED Radio Hour"
+    },
+    {
+        "url": "https://feed.thisamericanlife.org/talpodcast",
+        "name": "This American Life"
     }
 ]
