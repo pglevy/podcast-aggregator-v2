@@ -3,7 +3,12 @@ from flask import Flask, render_template, url_for
 from .feed_manager import FeedManager
 from datetime import datetime
 
-app = Flask(__name__)
+# Get the root directory path
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+app = Flask(__name__,
+            template_folder=os.path.join(root_dir, 'templates'),
+            static_folder=os.path.join(root_dir, 'static'))
 app.secret_key = os.environ.get("FLASK_SECRET_KEY") or "dev_key"
 
 @app.template_filter('format_date')
