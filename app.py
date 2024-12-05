@@ -1,9 +1,29 @@
 import os
 from flask import Flask, render_template, url_for
 from feed_manager import FeedManager
+from datetime import datetime
 
 app = Flask(__name__)
 app.secret_key = os.environ.get("FLASK_SECRET_KEY") or "dev_key"
+
+@app.template_filter('format_date')
+def format_date(timestamp):
+    """Convert timestamp to human readable date."""
+    date = datetime.fromtimestamp(timestamp)
+    today = datetime.now()
+    
+    # If it's today
+    if date.date() == today.date():
+        return f"Today at {date.strftime('%-I:%M %p')}"
+    # If it's yesterday
+    elif date.date() == today.date().replace(day=today.day-1):
+        return f"Yesterday at {date.strftime('%-I:%M %p')}"
+    # If it's this year
+    elif date.year == today.year:
+        return date.strftime('%B %-d at %-I:%M %p')
+    # If it's a different year
+    else:
+        return date.strftime('%B %-d, %Y at %-I:%M %p')
 
 feed_manager = FeedManager('feeds.json')
 

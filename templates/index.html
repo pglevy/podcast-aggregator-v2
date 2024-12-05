@@ -13,6 +13,7 @@
             <div class="card-body">
                 <div class="podcast-title mb-2">{{ episode.podcast_title }}</div>
                 <h5 class="card-title">{{ episode.title }}</h5>
+                <div class="text-muted small mb-2">{{ episode.published | format_date }}</div>
                 <p class="card-text text-truncate">{{ episode.description | striptags }}</p>
                 <a href="{{ url_for('episode', guid=episode.guid) }}" class="btn btn-secondary">Listen</a>
             </div>
