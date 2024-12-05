@@ -16,7 +16,12 @@ class FeedManager:
     def __init__(self, feeds_file):
         self.feeds_file = feeds_file
         self.episodes_cache = None
-        self.fallback_image = "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/podcast.svg"
+        self.generic_fallback = "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/podcast.svg"
+        self.custom_fallbacks = {
+            "This American Life": "https://www.thisamericanlife.org/sites/default/files/tal-logo.png",
+            "NPR News Now": "https://media.npr.org/images/podcasts/primary/icon_500005-045e9424cae3a72b93704bea48767c9e6f8973a8.jpg?s=1400",
+            "TED Radio Hour": "https://media.npr.org/images/podcasts/primary/icon_510298-c3b09c45c6ef5b6af87f0c5982d68c216cda43dc.jpg?s=1400"
+        }
         
     def load_feeds(self):
         try:
@@ -66,11 +71,22 @@ class FeedManager:
                             logging.warning(f"No audio URL found for episode: {entry.title}")
                             continue
 
-                        # Get image with fallback
+                        # Get image with enhanced fallback hierarchy
                         image = (
-                            getattr(parsed.feed, 'image', {}).get('href') or
+                            # Episode-specific images
+                            entry.get('media_thumbnail', [{}])[0].get('url') or
+                            entry.get('itunes_image', {}).get('href') or
                             getattr(entry, 'image', {}).get('href') or
-                            self.fallback_image
+                            
+                            # Feed-level images
+                            parsed.feed.get('itunes_image', {}).get('href') or
+                            getattr(parsed.feed, 'image', {}).get('href') or
+                            
+                            # Custom fallback per podcast
+                            self.custom_fallbacks.get(feed['name']) or
+                            
+                            # Generic fallback
+                            self.generic_fallback
                         )
                         
                         episode = {
