@@ -2,6 +2,7 @@ import os
 from flask import Flask, render_template, url_for
 from .feed_manager import FeedManager
 from datetime import datetime
+from urllib.parse import unquote
 
 # Get the root directory path
 root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -40,6 +41,7 @@ def index():
 
 @app.route('/episode/<path:guid>')
 def episode(guid):
+    # Try both encoded and decoded GUIDs
     episode = feed_manager.get_episode_by_guid(guid)
     if episode:
         return render_template('episode.html', episode=episode)

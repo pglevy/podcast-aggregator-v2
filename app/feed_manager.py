@@ -1,7 +1,7 @@
 import json
 import feedparser
 from datetime import datetime
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 import logging
 import traceback
 from email.utils import parsedate_to_datetime
@@ -118,7 +118,7 @@ class FeedManager:
                             'audio_url': audio_url,
                             'image': image,
                             'podcast_title': parsed.feed.title,
-                            'guid': quote(entry.get('guid', entry.id), safe='')
+                            'guid': quote(str(entry.get('guid', entry.id)), safe='')
                         }
                         feed_episodes.append(episode)
                         logging.debug(f"Successfully processed episode: {episode['title']}")
@@ -138,5 +138,12 @@ class FeedManager:
         return all_episodes
         
     def get_episode_by_guid(self, guid):
+        """Get episode by GUID, trying both encoded and decoded GUIDs."""
         episodes = self.get_all_episodes()
-        return next((ep for ep in episodes if ep['guid'] == guid), None)
+        # Try with encoded GUID first
+        episode = next((ep for ep in episodes if ep['guid'] == guid), None)
+        if not episode:
+            # Try with decoded GUID
+            decoded_guid = unquote(guid)
+            episode = next((ep for ep in episodes if unquote(ep['guid']) == decoded_guid), None)
+        return episode
