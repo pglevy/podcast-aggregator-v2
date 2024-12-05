@@ -13,9 +13,10 @@ logging.basicConfig(
 )
 
 class FeedManager:
-    def __init__(self, feeds_file):
+    def __init__(self, feeds_file, episodes_per_feed=10):
         self.feeds_file = feeds_file
         self.episodes_cache = None
+        self.episodes_per_feed = episodes_per_feed
         self.generic_fallback = "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/podcast.svg"
         self.custom_fallbacks = {
             "This American Life": "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/headphones.svg",
@@ -49,14 +50,16 @@ class FeedManager:
                     return 0
             
     def get_all_episodes(self):
+        """Get episodes from all feeds, limiting the number of episodes per feed."""
         if self.episodes_cache:
             return self.episodes_cache
             
-        episodes = []
+        all_episodes = []
         feeds = self.load_feeds()
         
         for feed in feeds:
             try:
+                feed_episodes = []
                 logging.info(f"Processing feed: {feed['name']} ({feed['url']})")
                 parsed = feedparser.parse(feed['url'])
                 
@@ -117,16 +120,22 @@ class FeedManager:
                             'podcast_title': parsed.feed.title,
                             'guid': quote(entry.get('guid', entry.id), safe='')
                         }
-                        episodes.append(episode)
+                        feed_episodes.append(episode)
                         logging.debug(f"Successfully processed episode: {episode['title']}")
                     except Exception as e:
                         logging.error(f"Error processing entry in feed {feed['url']}: {str(e)}\n{traceback.format_exc()}")
+                
+                # Sort feed episodes by date and limit them
+                feed_episodes.sort(key=lambda x: x['published'], reverse=True)
+                feed_episodes = feed_episodes[:self.episodes_per_feed]
+                all_episodes.extend(feed_episodes)
+                
             except Exception as e:
                 logging.error(f"Error processing feed {feed['url']}: {str(e)}\n{traceback.format_exc()}")
                 
-        self.episodes_cache = episodes
-        logging.info(f"Successfully processed {len(episodes)} episodes from {len(feeds)} feeds")
-        return episodes
+        self.episodes_cache = all_episodes
+        logging.info(f"Successfully processed {len(all_episodes)} episodes from {len(feeds)} feeds")
+        return all_episodes
         
     def get_episode_by_guid(self, guid):
         episodes = self.get_all_episodes()
