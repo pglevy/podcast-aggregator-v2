@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Latest Episodes - Podcast Aggregator{% endblock %}
+
+{% block content %}
+<div class="row g-4">
+    {% for episode in episodes %}
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100 episode-card">
+            {% if episode.image %}
+            <img src="{{ episode.image }}" class="card-img-top episode-image" alt="{{ episode.podcast_title }}">
+            {% endif %}
+            <div class="card-body">
+                <div class="podcast-title mb-2">{{ episode.podcast_title }}</div>
+                <h5 class="card-title">{{ episode.title }}</h5>
+                <p class="card-text text-truncate">{{ episode.description | striptags }}</p>
+                <a href="{{ url_for('episode', guid=episode.guid) }}" class="btn btn-secondary">Listen</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,10 @@
+[
+    {
+        "url": "https://feeds.example.com/podcast1/feed.xml",
+        "name": "Example Podcast 1"
+    },
+    {
+        "url": "https://feeds.example.com/podcast2/feed.xml",
+        "name": "Example Podcast 2"
+    }
+]

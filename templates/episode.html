@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}{{ episode.title }} - Podcast Aggregator{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Home</a></li>
+                <li class="breadcrumb-item active">{{ episode.podcast_title }}</li>
+            </ol>
+        </nav>
+
+        {% if episode.image %}
+        <img src="{{ episode.image }}" class="img-fluid mb-4 episode-image" alt="{{ episode.podcast_title }}">
+        {% endif %}
+
+        <h1 class="mb-3">{{ episode.title }}</h1>
+        <div class="podcast-title mb-4">{{ episode.podcast_title }}</div>
+
+        <audio controls class="audio-player" data-guid="{{ episode.guid }}">
+            <source src="{{ episode.audio_url }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            {{ episode.description | safe }}
+        </div>
+    </div>
+</div>
+{% endblock %}
