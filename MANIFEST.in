@@ -1,0 +1,4 @@
+include static/css/*.css
+include static/js/*.js
+include templates/*.html
+include feeds.json

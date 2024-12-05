@@ -1,6 +1,6 @@
 import os
 from flask import Flask, render_template, url_for
-from feed_manager import FeedManager
+from .feed_manager import FeedManager
 from datetime import datetime
 
 app = Flask(__name__)

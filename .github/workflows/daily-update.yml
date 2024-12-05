@@ -22,25 +22,21 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # Install packages with exact versions from pyproject.toml
-        python -m pip install \
-          feedparser==6.0.11 \
-          flask==3.1.0 \
-          frozen-flask==1.0.2 \
-          pyyaml==6.0.2 \
-          email-validator==2.2.0 \
-          flask-sqlalchemy==3.1.1 \
-          psycopg2-binary==2.9.10 \
-          || exit 1  # Exit if installation fails
+        # Install the package in editable mode with all dependencies
+        python -m pip install -e . || exit 1
         
         # Verify installations
         echo "Verifying package installations..."
         python -c "import feedparser, flask, flask_frozen, yaml, email_validator, flask_sqlalchemy, psycopg2" || exit 1
         
+        # Verify package structure
+        echo "Verifying package structure..."
+        python -c "from app import app" || exit 1
+        
     - name: Convert feeds
       run: |
         echo "Converting feeds from YAML to JSON..."
-        python convert_feeds.py
+        python -m app.convert_feeds
         if [ ! -f feeds.json ]; then
           echo "Error: feeds.json was not created"
           exit 1
@@ -49,7 +45,7 @@ jobs:
     - name: Build static site
       run: |
         echo "Building static site..."
-        python build.py
+        python -m app.build
         
         # Verify build output
         if [ ! -d "build" ]; then
