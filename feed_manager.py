@@ -18,7 +18,7 @@ class FeedManager:
         self.episodes_cache = None
         self.generic_fallback = "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/podcast.svg"
         self.custom_fallbacks = {
-            "This American Life": "https://www.thisamericanlife.org/sites/default/files/tal-logo.png",
+            "This American Life": "https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/headphones.svg",
             "NPR News Now": "https://media.npr.org/images/podcasts/primary/icon_500005-045e9424cae3a72b93704bea48767c9e6f8973a8.jpg?s=1400",
             "TED Radio Hour": "https://media.npr.org/images/podcasts/primary/icon_510298-c3b09c45c6ef5b6af87f0c5982d68c216cda43dc.jpg?s=1400"
         }
@@ -81,25 +81,30 @@ class FeedManager:
                         logging.debug(f"Feed image (getattr): {getattr(parsed.feed, 'image', {}).get('href')}")
                         logging.debug(f"Feed image (get): {parsed.feed.get('image', {}).get('href')}")
                         
-                        # Get image with enhanced fallback hierarchy
-                        image = (
-                            # Episode-specific images
-                            entry.get('media_thumbnail', [{}])[0].get('url') or
-                            entry.get('itunes_image', {}).get('href') or
-                            getattr(entry, 'image', {}).get('href') or
-                            entry.get('image', {}).get('href') or  # Additional check
-                            
-                            # Feed-level images
-                            parsed.feed.get('itunes_image', {}).get('href') or
-                            getattr(parsed.feed, 'image', {}).get('href') or
-                            parsed.feed.get('image', {}).get('href') or  # Additional check
-                            
-                            # Custom fallback per podcast
-                            self.custom_fallbacks.get(feed['name']) or
-                            
-                            # Generic fallback
-                            self.generic_fallback
-                        )
+                        # Get image with special handling for This American Life
+                        if feed['name'] == "This American Life":
+                            # Use custom fallback directly for This American Life
+                            image = self.custom_fallbacks.get(feed['name'])
+                        else:
+                            # Existing image selection logic for other feeds
+                            image = (
+                                # Episode-specific images
+                                entry.get('media_thumbnail', [{}])[0].get('url') or
+                                entry.get('itunes_image', {}).get('href') or
+                                getattr(entry, 'image', {}).get('href') or
+                                entry.get('image', {}).get('href') or  # Additional check
+                                
+                                # Feed-level images
+                                parsed.feed.get('itunes_image', {}).get('href') or
+                                getattr(parsed.feed, 'image', {}).get('href') or
+                                parsed.feed.get('image', {}).get('href') or  # Additional check
+                                
+                                # Custom fallback per podcast
+                                self.custom_fallbacks.get(feed['name']) or
+                                
+                                # Generic fallback
+                                self.generic_fallback
+                            )
                         
                         logging.debug(f"Final image URL selected: {image}")
                         
