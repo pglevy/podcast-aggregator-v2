@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#2251 - Rick Perry &amp; W. Bryan Hubbard - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Joe Rogan Experience</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://megaphone.imgix.net/podcasts/1ea9cf64-c6ce-11ef-a57e-4366db438c22/image/8c7dbb7443f25168e52da5cf240bab4b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        
+
+        <h1 class="mb-3">#2251 - Rick Perry &amp; W. Bryan Hubbard</h1>
+        <div class="podcast-title">The Joe Rogan Experience</div>
+        <div class="text-muted mb-4">January 2 at 6:00 PM</div>
+
+        <audio controls class="audio-player" data-guid="1ea9cf64-c6ce-11ef-a57e-4366db438c22">
+            <source src="https://traffic.megaphone.fm/GLT4510768900.mp3?updated=1736376462" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Rick Perry was the 47th governor of Texas and the 14th secretary of Energy in the first administration of President Donald Trump.
+https://x.com/GovernorPerry
+
+W. Bryan Hubbard was the 1st Chairman of the Kentucky Opioid Commission and currently leads the REID Foundation’s American Ibogaine Initiative.
+https://x.com/w_bryan_hubbard
+
+https://www.reid.foundation/texas-ibogaine-initiative
+https://www.reveilleadvisors.com/ibogaine/
+
+This episode is brought to you by AG1.Take ownership of your health with AG1 and get a FREE 1-year supply of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to http://drinkag1.com/joerogan
+
+Go to https://www.expressvpn.com/ROGAN and find out how you can get 4 months of ExpressVPN free!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

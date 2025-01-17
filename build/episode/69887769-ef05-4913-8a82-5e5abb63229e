@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Product Pivot - Podcast Aggregator</title>
+    <title>Episode 41 Postponed - November 5, 2024 - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">REWORK</li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
             </ol>
         </nav>
 
         
-        <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42558421/3ae65ea6408e5fb9.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
         
 
-        <h1 class="mb-3">A Product Pivot</h1>
-        <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">December 4, 2024 at 9:00 AM</div>
+        <h1 class="mb-3">Episode 41 Postponed - November 5, 2024</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">November 5, 2024 at 8:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16217541">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16217541-a-product-pivot.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="69887769-ef05-4913-8a82-5e5abb63229e">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/95151610/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-30%2F390718109-44100-2-edc6af75dac73325.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Before introducing a new product feature, it’s essential to first understand the problem you're trying to fix. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson share a recent experience designing a new feature in HEY. During the process, the team pivoted and changed direction, resulting in a better design.Key Takeaways:00:44 – The original product design plan and what changed along the way02:31 – The difference between specifying the outco...
+            Today's scheduled epsiode (Episode 41) will be postponed until next week. Stay kind!
         </div>
     </div>
 </div>

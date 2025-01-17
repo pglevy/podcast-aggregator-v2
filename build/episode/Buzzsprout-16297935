@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Product Pivot - Podcast Aggregator</title>
+    <title>The Biggest Customer Conundrum - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -29,17 +29,17 @@
         <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
         
 
-        <h1 class="mb-3">A Product Pivot</h1>
+        <h1 class="mb-3">The Biggest Customer Conundrum</h1>
         <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">December 4, 2024 at 9:00 AM</div>
+        <div class="text-muted mb-4">December 18, 2024 at 9:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16217541">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16217541-a-product-pivot.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="Buzzsprout-16297935">
+            <source src="https://www.buzzsprout.com/2260539/episodes/16297935-the-biggest-customer-conundrum.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Before introducing a new product feature, it’s essential to first understand the problem you're trying to fix. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson share a recent experience designing a new feature in HEY. During the process, the team pivoted and changed direction, resulting in a better design.Key Takeaways:00:44 – The original product design plan and what changed along the way02:31 – The difference between specifying the outco...
+            Bigger isn't always better. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson share the drawbacks of chasing high-profile, enterprise deals. The two founders explain why they prefer their business model that's built around serving smaller clients. Key Takeaways:00:35 – The biggest clients can quickly become the biggest burden and the biggest risk07:10 – The hidden costs of “whale-sized” clients12:35 – Things to consider when defining y...
         </div>
     </div>
 </div>

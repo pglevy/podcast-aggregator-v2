@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2237 - Mike Benz - Podcast Aggregator</title>
+    <title>#2255 - Mark Zuckerberg - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,22 +26,24 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/9831a31c-b11a-11ef-8a65-d73931abd59c/image/87bf442f9709a9d7d970c4967f1b7da9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/496d1c5c-cca9-11ef-b787-3374ca84de63/image/e0e0faabbdb2f2dc78b6aab80e85040f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2237 - Mike Benz</h1>
+        <h1 class="mb-3">#2255 - Mark Zuckerberg</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">December 3 at 6:00 PM</div>
+        <div class="text-muted mb-4">January 10 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="9831a31c-b11a-11ef-8a65-d73931abd59c">
-            <source src="https://traffic.megaphone.fm/GLT9468708460.mp3?updated=1733243753" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="496d1c5c-cca9-11ef-b787-3374ca84de63">
+            <source src="https://traffic.megaphone.fm/GLT7503104737.mp3?updated=1736529332" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Mike Benz is a former official with the U.S. Department of State and current Executive Director of the Foundation For Freedom Online, is a free speech watchdog organization dedicated to restoring the promise of a free and open Internet.
+            Mark Zuckerberg is the chief executive of Meta Platforms Inc., the company behind Facebook, Instagram, Threads, WhatsApp, Meta Quest, Ray-Ban Meta smart glasses, Orion augmented reality glasses, and other digital platforms, devices, and services. 
 
-www.foundationforfreedomonline.com
+about.facebook.com
+
+Take ownership of your health with AG1 and get a FREE bottle of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to drinkag1.com/joerogan
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>

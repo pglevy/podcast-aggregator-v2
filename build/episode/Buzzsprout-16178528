@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Product Pivot - Podcast Aggregator</title>
+    <title>Your Competition is Your Costs - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -29,17 +29,17 @@
         <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
         
 
-        <h1 class="mb-3">A Product Pivot</h1>
+        <h1 class="mb-3">Your Competition is Your Costs</h1>
         <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">December 4, 2024 at 9:00 AM</div>
+        <div class="text-muted mb-4">November 27, 2024 at 9:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16217541">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16217541-a-product-pivot.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="Buzzsprout-16178528">
+            <source src="https://www.buzzsprout.com/2260539/episodes/16178528-your-competition-is-your-costs.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Before introducing a new product feature, it’s essential to first understand the problem you're trying to fix. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson share a recent experience designing a new feature in HEY. During the process, the team pivoted and changed direction, resulting in a better design.Key Takeaways:00:44 – The original product design plan and what changed along the way02:31 – The difference between specifying the outco...
+            Remaining profitable in business is a simple equation — sales revenue exceeding operating costs. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson explain why controlling costs should be a bigger focus than what your competition is doing. They share some simple strategies for analyzing costs and share why operating without a formal office space might be worth considering.Key Takeaways:00:37 – Why you should stop worrying about what everyone...
         </div>
     </div>
 </div>

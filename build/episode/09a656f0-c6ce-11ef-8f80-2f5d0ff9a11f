@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2238 - John McPhee - Podcast Aggregator</title>
+    <title>#2250 - Raekwon - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,22 +26,26 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/da022e22-b1d5-11ef-b0d5-4f7f6eabee13/image/31ee49e38bdd85b04444948d7f39a5de.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/09a656f0-c6ce-11ef-8f80-2f5d0ff9a11f/image/1ce741db2d31ade3612ec0cd05f1d8a2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2238 - John McPhee</h1>
+        <h1 class="mb-3">#2250 - Raekwon</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">Yesterday at 6:00 PM</div>
+        <div class="text-muted mb-4">January 1 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="da022e22-b1d5-11ef-b0d5-4f7f6eabee13">
-            <source src="https://traffic.megaphone.fm/GLT8192604914.mp3?updated=1733329550" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="09a656f0-c6ce-11ef-8f80-2f5d0ff9a11f">
+            <source src="https://traffic.megaphone.fm/GLT1884478528.mp3?updated=1736376716" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            John McPhee, widely known as “The Sheriff of Baghdad” or “SHREK,” is a retired U.S. Army Special Operations Sergeant Major with over 20 years of distinguished service. He is the owner of SOB Tactical, a supplier of specialized training and tactical gear to civilians, military, and law enforcement. 
+            Raekwon is a founding member of the Wu-Tang Clan, critically acclaimed solo artist, author, and entrepreneur. 
 
-www.sobtactical.com 
+https://linktr.ee/RaekwonTheChef
+
+This episode is brought to you by AG1.Take ownership of your health with AG1 and get a FREE 1-year supply of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to http://drinkag1.com/joerogan
+
+Cancel your unwanted subscriptions and reach your financial goals faster with Rocket Money. Go to http://RocketMoney.com/jre or scan the QR code today!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>

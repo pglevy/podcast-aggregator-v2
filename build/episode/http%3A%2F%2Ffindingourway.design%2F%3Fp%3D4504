@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>53: Leading Design Through Continual Evolution (ft. Peter Skillman) - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Finding Our Way</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://i0.wp.com/findingourway.design/wp-content/uploads/2020/06/findingourwayart_2_tweak.001.png?fit=3000%2C3000&amp;ssl=1" class="img-fluid mb-4 episode-image" alt="Finding Our Way">
+        
+
+        <h1 class="mb-3">53: Leading Design Through Continual Evolution (ft. Peter Skillman)</h1>
+        <div class="podcast-title">Finding Our Way</div>
+        <div class="text-muted mb-4">January 4 at 7:10 PM</div>
+
+        <audio controls class="audio-player" data-guid="http%3A%2F%2Ffindingourway.design%2F%3Fp%3D4504">
+            <source src="https://findingourway.design/wp-content/uploads/2025/01/fow-e53-peter-skillman.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Head of Philips Design, Peter Skillman, joins Peter and Jesse to share lessons from Philips' century of design innovation, from light bulbs to the compact disc to healthcare technology.
+
+We'll also talk about the cultural factors that support design influence, what he learned and had to unlearn from his time in Silicon Valley, and how the game for design leaders has fundamentally changed in recent years.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

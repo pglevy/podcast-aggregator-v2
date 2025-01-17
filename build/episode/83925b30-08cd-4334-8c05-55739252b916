@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Product Pivot - Podcast Aggregator</title>
+    <title>Ed Slott: Tax Planning for 2025 and Beyond - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">REWORK</li>
+                <li class="breadcrumb-item active">The Long View</li>
             </ol>
         </nav>
 
         
-        <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
+        <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
         
 
-        <h1 class="mb-3">A Product Pivot</h1>
-        <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">December 4, 2024 at 9:00 AM</div>
+        <h1 class="mb-3">Ed Slott: Tax Planning for 2025 and Beyond</h1>
+        <div class="podcast-title">The Long View</div>
+        <div class="text-muted mb-4">November 26, 2024 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16217541">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16217541-a-product-pivot.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="83925b30-08cd-4334-8c05-55739252b916">
+            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/c32b2b8a-0883-4d1f-9bea-d3d5b062852f.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Before introducing a new product feature, it’s essential to first understand the problem you're trying to fix. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson share a recent experience designing a new feature in HEY. During the process, the team pivoted and changed direction, resulting in a better design.Key Takeaways:00:44 – The original product design plan and what changed along the way02:31 – The difference between specifying the outco...
+            The tax and IRA expert weighs in on tax-savvy retirement planning, Roth conversions, and the new rules for inherited IRAs.
         </div>
     </div>
 </div>

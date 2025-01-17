@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#450 – Bernie Sanders Interview - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#450 – Bernie Sanders Interview</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">October 23, 2024 at 8:30 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6062">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bernie_sanders.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Bernie Sanders is a US Senator from Vermont and a two-time presidential candidate.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep450-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/bernie-sanders-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Bernie's Website: https://berniesanders.com<br />
+Bernie's X: https://x.com/BernieSanders<br />
+Bernie's Instagram: https://instagram.com/berniesanders<br />
+Bernie's YouTube: https://youtube.com/@BernieSanders<br />
+Bernie's Facebook: https://facebook.com/berniesanders<br />
+<br />
+Bernie's Books:<br />
+It's OK to Be Angry About Capitalism: https://amzn.to/4fiIqS3<br />
+Where We Go from Here: https://amzn.to/4eUSJMj<br />
+Bernie Sanders Guide to Political Revolution: https://amzn.to/3YkVAa4<br />
+Our Revolution: https://amzn.to/40cIbnf<br />
+Outsider in the White House: https://amzn.to/3BSfD8u<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Eight Sleep: Temp-controlled smart mattress.<br />
+Go to https://eightsleep.com/lex<br />
+Saily: An eSIM for international travel.<br />
+Go to https://saily.com/lex<br />
+Ground News: Unbiased news source.<br />
+Go to https://groundnews.com/lex<br />
+AG1: All-in-one daily nutrition drinks.<br />
+Go to https://drinkag1.com/lex<br />
+LMNT: Zero-sugar electrolyte drink mix.<br />
+Go to https://drinkLMNT.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(08:51) - MLK Jr<br />
+(11:43) - Corruption in politics<br />
+(23:00) - Healthcare in US<br />
+(31:33) - 2016 election<br />
+(37:32) - Barack Obama<br />
+(43:26) - Capitalism<br />
+(51:35) - Response to attacks<br />
+(56:32) - AOC and progressive politics<br />
+(1:04:24) - Mortality<br />
+(1:06:30) - Hope for the future<br />
+<br />
+PODCAST LINKS:<br />
+- Podcast Website: https://lexfridman.com/podcast<br />
+- Apple Podcasts: https://apple.co/2lwqZIr<br />
+- Spotify: https://spoti.fi/2nEwCF8<br />
+- RSS: https://lexfridman.com/feed/podcast/<br />
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4<br />
+- Clips Channel: https://www.youtube.com/lexclips
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

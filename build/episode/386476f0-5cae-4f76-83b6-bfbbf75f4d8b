@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Winter Mindset: How Norwegians Love the Winter (And You Can Too) - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Art of Manliness</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/0dbb2522-c63f-4bea-bb79-1b525d40a696/3000x3000/art-of-manliness-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Art of Manliness">
+        
+
+        <h1 class="mb-3">The Winter Mindset: How Norwegians Love the Winter (And You Can Too)</h1>
+        <div class="podcast-title">The Art of Manliness</div>
+        <div class="text-muted mb-4">December 11, 2024 at 11:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="386476f0-5cae-4f76-83b6-bfbbf75f4d8b">
+            <source src="https://stitcher.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/43103682-5592-4a71-aea8-850e9bca4c18/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=43103682-5592-4a71-aea8-850e9bca4c18&amp;feed=azy33G8_" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            When people think about winter, they often focus on the negatives: the cold, the dark, and the seasonal depression the season can bring. But my guest today questions whether winter really has to be so miserable and says that by changing our mindset, we can actually learn to enjoy and even thrive during this season.
+
+Kari Leibowitz is a psychologist and the author of How to Winter: Harness Your Mindset to Thrive on Cold, Dark, or Difficult Days. She spent a year at the northernmost university in the world in Tromsø, Norway, studying why people living in the Arctic, where the sun doesn't rise for two months, don't suffer from seasonal depression at the rates you might expect. Today on the show, Kari explains how our expectations can create a nocebo effect that makes winter feel worse than it needs to, why breaking winter into three distinct sub-seasons can help us appreciate it more, how Nordic practices like hygge can make darkness feel cozy rather than oppressive, and why getting outside and staying social — even when it's cold and dark — are keys to thriving during the season.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
