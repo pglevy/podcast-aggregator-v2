@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#371 James J. Hill: The Empire Builder - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Founders</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/721c2dd0-f766-4405-a701-dcd9179d4a5b/3000x3000/1495013501artwork.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="Founders">
+        
+
+        <h1 class="mb-3">#371 James J. Hill: The Empire Builder</h1>
+        <div class="podcast-title">Founders</div>
+        <div class="text-muted mb-4">November 18, 2024 at 1:30 AM</div>
+
+        <audio controls class="audio-player" data-guid="c986b14e-e17f-4d4b-8c1e-5b90dc04ca9f">
+            <source src="https://cdn.simplecast.com/audio/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/eee3bec5-2755-4703-a262-542b2381c426/audio/b6042242-5f83-4e32-9dd0-b4b55cc54caf/default_tc.mp3?aid=rss_feed&amp;feed=3hnxp7yk" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            What I learned from rereading James J. Hill: Empire Builder by Michael P. Malone.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

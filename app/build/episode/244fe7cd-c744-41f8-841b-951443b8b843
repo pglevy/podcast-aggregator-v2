@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#369 Elon Musk and The Early Days of SpaceX - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Founders</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/721c2dd0-f766-4405-a701-dcd9179d4a5b/3000x3000/1495013501artwork.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="Founders">
+        
+
+        <h1 class="mb-3">#369 Elon Musk and The Early Days of SpaceX</h1>
+        <div class="podcast-title">Founders</div>
+        <div class="text-muted mb-4">November 1, 2024 at 11:09 PM</div>
+
+        <audio controls class="audio-player" data-guid="244fe7cd-c744-41f8-841b-951443b8b843">
+            <source src="https://cdn.simplecast.com/audio/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/95a9f4ee-a821-4e71-956a-c2fe0ec71259/audio/78b30929-6867-4019-9b47-2825738daac5/default_tc.mp3?aid=rss_feed&amp;feed=3hnxp7yk" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            What I learned from rereading Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX by Eric Berger.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

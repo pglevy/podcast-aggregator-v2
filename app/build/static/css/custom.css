@@ -1,0 +1,22 @@
+.episode-card {
+    transition: transform 0.2s;
+}
+
+.episode-card:hover {
+    transform: translateY(-2px);
+}
+
+.audio-player {
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.episode-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.podcast-title {
+    color: var(--bs-info);
+    font-size: 0.9rem;
+}

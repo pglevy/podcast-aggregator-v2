@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#447 – Cursor Team: Future of Programming with AI - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#447 – Cursor Team: Future of Programming with AI</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">October 6, 2024 at 6:47 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6042">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cursor_team.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Aman Sanger, Arvid Lunnemark, Michael Truell, and Sualeh Asif are creators of Cursor, a popular code editor that specializes in AI-assisted programming.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep447-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/cursor-team-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Cursor Website: https://cursor.com<br />
+Cursor on X: https://x.com/cursor_ai<br />
+Anysphere Website: https://anysphere.inc/<br />
+Aman's X: https://x.com/amanrsanger<br />
+Aman's Website: https://amansanger.com/<br />
+Arvid's X: https://x.com/ArVID220u<br />
+Arvid's Website: https://arvid.xyz/<br />
+Michael's Website: https://mntruell.com/<br />
+Michael's LinkedIn: https://bit.ly/3zIDkPN<br />
+Sualeh's X: https://x.com/sualehasif996<br />
+Sualeh's Website: https://sualehasif.me/<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Encord: AI tooling for annotation & data management.<br />
+Go to https://encord.com/lex<br />
+MasterClass: Online classes from world-class experts.<br />
+Go to https://masterclass.com/lexpod<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+NetSuite: Business management software.<br />
+Go to http://netsuite.com/lex<br />
+AG1: All-in-one daily nutrition drinks.<br />
+Go to https://drinkag1.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(09:25) - Code editor basics<br />
+(11:35) - GitHub Copilot<br />
+(18:53) - Cursor<br />
+(25:20) - Cursor Tab<br />
+(31:35) - Code diff<br />
+(39:46) - ML details<br />
+(45:20) - GPT vs Claude<br />
+(51:54) - Prompt engineering<br />
+(59:20) - AI agents<br />
+(1:13:18) - Running code in background<br />
+(1:17:57) - Debugging<br />
+(1:23:25) - Dangerous code<br />
+(1:34:35) - Branching file systems<br />
+(1:37:47) - Scaling challenges<br />
+(1:51:58) - Context<br />
+(1:57:05) - OpenAI o1<br />
+(2:08:27) - Synthetic data<br />
+(2:12:14) - RLHF vs RLAIF<br />
+(2:14:01) - Fields Medal for AI<br />
+(2:16:43) - Scaling laws<br />
+(2:25:32) - The future of programming<br />
+<br />
+PODCAST LINKS:<br />
+- Podcast Website: https://lexfridman.com/podcast<br />
+- Apple Podcasts: https://apple.co/2lwqZIr<br />
+- Spotify: https://spoti.fi/2nEwCF8<br />
+- RSS: https://lexfridman.com/feed/podcast/<br />
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4<br />
+- Clips Channel: https://www.youtube.com/lexclips
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

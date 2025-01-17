@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>507. The Insanity of Woke Psychologists | Lee Jussim - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">507. The Insanity of Woke Psychologists | Lee Jussim</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">December 16, 2024 at 10:00 PM</div>
+
+        <audio controls class="audio-player" data-guid="c71ecd12-b879-4415-83f5-049ef039feb6">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/fe2e4527-e680-4b01-971e-367dfb1195cd/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=fe2e4527-e680-4b01-971e-367dfb1195cd&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Dr. Jordan B. Peterson sits down with researcher and Rutgers University Professor of Psychology Lee Jessim. They discuss the denial of Left-wing authoritarianism across academia, how Lee’s research proved such authoritarianism exists, the backlash and attempted cancellations he received for his work, and how he not only survived the battle, but also garnered a promotion as a result. 
+
+This episode was filmed on December 7th, 2024.
+
+
+| Links |
+
+For Lee Jussim:
+
+On X https://x.com/PsychRabble?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

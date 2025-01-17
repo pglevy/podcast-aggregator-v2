@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Do You Know When an Illustration is Done? - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/42558421-1733597150805-2d6863c7516d2.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">How Do You Know When an Illustration is Done?</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">December 10, 2024 at 8:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="8670c38b-b1ba-4faf-af12-0ed85917dc2a">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/95502560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-7%2F2aa23d3d-271c-ae7b-1a93-ddc38287b29e.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p><strong>"An artwork is never finished, only abandoned." </strong>This is apparently a quote from Leonardo Da Vinci. If one of the greatest artists of all time had trouble knowing when his work was finished, then it's no wonder the rest of us do as well.</p>
+<p>In this episode, I share some ideas on what it means to complete a work, how to know when you should call it done, and if that's not possible, how to responsibly abandon it. </p>
+<p>At the end I share some important news about the future of the podcast.</p>
+<p><br /></p>
+<p><strong>IN THIS EPISODE</strong></p>
+<ul>
+ <li>A new definition of "perfection"</li>
+ <li>Missing the mark: Is your work "sinful"?</li>
+ <li>How to know when a work is done</li>
+ <li>Overcoming perfectionism in client work and personal projects</li>
+  <li>News about the future of this podcast</li>
+</ul>
+<p><br /></p>
+<p><strong>SHOW LINKS</strong></p>
+<p>Take Drawing Towards Illustration on Skillshare. Learn how to connect how you draw with how you illustrate. </p>
+<p><a href="https://www.tomfroese.com/teaching/drawing-towards-illustration" rel="ugc noopener noreferrer" target="_blank">https://www.tomfroese.com/teaching/drawing-towards-illustration</a></p>
+<p><br /></p>
+<p><strong>HOW TO SUPPORT</strong></p>
+<ol>
+  <li>Share this episode with your friends on Social Media!</li>
+  <li>Like, Comment, Follow, Subscribe!</li>
+  <li>Become a Drawing Buddy on Patreon. Visit <a href="http://patreon.com/tomfroese" rel="ugc noopener noreferrer" target="_blank">http://patreon.com/tomfroese</a> to learn more.</li>
+</ol>
+<p><br /></p>
+<p><strong>CREDITS</strong></p>
+<p>Music and Cues by Mark Allan Falk - http://www.linktr.ee/semiathletic</p>
+<p><br /></p>
+<p><strong>FIND ME ELSEWHERE</strong></p>
+<p><strong>Work and Classes</strong> - http://www.tomfroese.com</p>
+<p><strong>Instagram </strong>- http://www.instagram.com/mrtomfroese</p>
+<p><strong>Daily Drawings</strong> - http://www.instagram.com/drawingisimportant</p>
+<p><br /></p>
+<p><br /></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

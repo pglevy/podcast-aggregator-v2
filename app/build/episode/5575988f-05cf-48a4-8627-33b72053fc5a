@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Crosby: Can Money Really Buy Happiness? - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Long View</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
+        
+
+        <h1 class="mb-3">Daniel Crosby: Can Money Really Buy Happiness?</h1>
+        <div class="podcast-title">The Long View</div>
+        <div class="text-muted mb-4">December 17, 2024 at 9:57 PM</div>
+
+        <audio controls class="audio-player" data-guid="5575988f-05cf-48a4-8627-33b72053fc5a">
+            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/598895e8-a855-4a9a-8d8a-a9fa7f18d22e.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            The author and financial psychologist discusses his new book on money and meaning, plus the challenges of spending in retirement.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

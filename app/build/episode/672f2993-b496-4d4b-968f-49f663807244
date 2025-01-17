@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Mark Zuckerberg Interview - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Acquired</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://img.transistor.fm/-vJDRHIoz_NNWMNtJ7QX45jOs3rV6ZhezI-m-DDqJcc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85YjEw/MWFmNzA0ZTBmNDA0/ZGJmNjgwMTRhM2Zh/NGExYi5qcGc.jpg" class="img-fluid mb-4 episode-image" alt="Acquired">
+        
+
+        <h1 class="mb-3">The Mark Zuckerberg Interview</h1>
+        <div class="podcast-title">Acquired</div>
+        <div class="text-muted mb-4">September 18, 2024 at 5:46 AM</div>
+
+        <audio controls class="audio-player" data-guid="672f2993-b496-4d4b-968f-49f663807244">
+            <source src="https://media.transistor.fm/edc5c37f/ed90b432.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>Mark is <strong><em>the</em></strong> iconic founder CEO of our time. At Chase Center on September 10, 2024, he did an unprecedented thing: a live conversation in front of 6,000 people on Meta’s company strategy, sharing stories from early Facebook history, and his thoughts on the future of AI, VR, and AR. Mark was remarkably candid in our discussion, and gave us a window into his real and intense daily demeanor leading Meta. (And his other life endeavors!)</p><p>We can't wait to release the <em>complete</em> video of the whole night, including our surprise conversations with Daniel Ek, Emily Chang, and cameo appearances from Jensen Huang and Mike Taylor (the incredible singer of “Who Got the Truth?”). That’s coming in a couple weeks, but for now: enjoy this conversation with Mark Zuckerberg.</p><p><strong>Sponsors:</strong></p><p>Many thanks to our fantastic Fall ‘24 Season partners:</p><ul><li><a href="https://bit.ly/acquiredJPMPF241pod">J.P. Morgan Payments</a></li><li><a href="https://bit.ly/acquiredstatsig24">Statsig</a></li><li><a href="https://bit.ly/acquiredcrusoefall24">Crusoe</a></li></ul><p><strong>Links:</strong></p><ul><li><a href="https://amiri.com">Mike Amiri</a> (who designed Mark’s shirt!)</li></ul><p><strong>More Acquired:</strong></p><ul><li><a href="https://www.acquired.fm/email">Get email updates</a> with hints on next episode and follow-ups from recent episodes</li><li><a href="http://acquired.fm/slack">Join the Slack</a></li><li><a href="https://pod.link/acquiredlp">Subscribe to ACQ2</a></li><li>Check out the latest swag <a href="https://www.acquired.fm/store">in the ACQ Merch Store</a>!</li></ul><p><em>Photo Credit: Mark Zuckerberg by Jeff Sainlar / Meta</em></p><p>© Copyright 2024 ACQ, LLC<em><br /></em><br /></p><p><em>‍Note: Acquired hosts and guests may hold assets discussed in this episode. This podcast is not investment advice, and is intended for informational and entertainment purposes only. You should do your own research and make your own independent decisions when considering any financial transactions.</em></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listen to This if You&#39;re Bored With Your Style - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/8bed65e550f90b0e.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">Listen to This if You&#39;re Bored With Your Style</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">October 8, 2024 at 7:11 AM</div>
+
+        <audio controls class="audio-player" data-guid="3041d944-93ae-4a34-8e6d-e944b4be6546">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/95151623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-30%2F390718103-44100-2-7cabb3ca08cebb53.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Develop a Drawing Habit in 30 Days. Take my class, Drawing Is Important – https://www.tomfroese.com/teaching/drawing-is-important. Use my links to get 30 days free on Skillshare.
+
+In this episode of My Thoughts on Illustration, I dive deep into my recent experience with a style crisis and how I turned to a daily drawing challenge to reignite my creativity.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
