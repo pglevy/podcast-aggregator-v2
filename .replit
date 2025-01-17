@@ -49,7 +49,8 @@ task = "shell.exec"
 args = "python -m app.build"
 
 [deployment]
-run = ["sh", "-c", "python main.py"]
+deploymentTarget = "static"
+publicDir = "build"
 
 [[ports]]
 localPort = 5000
