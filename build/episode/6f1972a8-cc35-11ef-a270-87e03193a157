@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>56 Minutes of Money Wisdom for High-Earning Couples - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">My First Million</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/MFM_ShowTile_2024.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="My First Million">
+        
+
+        <h1 class="mb-3">56 Minutes of Money Wisdom for High-Earning Couples</h1>
+        <div class="podcast-title">My First Million</div>
+        <div class="text-muted mb-4">January 6 at 1:55 PM</div>
+
+        <audio controls class="audio-player" data-guid="6f1972a8-cc35-11ef-a270-87e03193a157">
+            <source src="https://pdst.fm/e/chrt.fm/track/28555/pdrl.fm/2a922f/traffic.megaphone.fm/HS6622306344.mp3?updated=1736172177" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Get our Business Monetization Playbook: https://clickhubspot.com/monetization
+
+
+Episode 665: Sam Parr ( https://x.com/theSamParr ) talks to Ramit Sethi ( https://x.com/ramit ) about money rules for couples in their 30s and 40s. 
+—
+Show Notes: 
+(0:00) 5 rules for money in your relationship
+(5:25) the 4 money types: avoider, optimizer, worriers, dreamers
+(10:15) The Annual Review
+(23:00) Monthly money meetings
+(26:00) There is no "money person"
+(31:09) 4 benchmarks for high-earning couples
+(35:03) Learning to spend
+(41:01) Investments vs purchases
+(43:39) Troubleshooting partnership disagreements
+(49:00) Spending to solve problems
+(53:00) Fight for simplicity
+
+
+—
+Links:
+• Money for Couples - http://iwt.com/moneyforcouples
+• Ramit on YouTube - https://www.youtube.com/@ramitsethi
+
+—
+Check Out Shaan's Stuff:
+Need to hire? You should use the same service Shaan uses to hire developers, designers, & Virtual Assistants → it’s called Shepherd (tell ‘em Shaan sent you): https://bit.ly/SupportShepherd
+
+—
+Check Out Sam's Stuff:
+• Hampton - https://www.joinhampton.com/
+• Ideation Bootcamp - https://www.ideationbootcamp.co/
+• Copy That - https://copythat.com
+• Hampton Wealth Survey - https://joinhampton.com/wealth
+• Sam’s List - http://samslist.co/
+
+My First Million is a HubSpot Original Podcast // Brought to you by The HubSpot Podcast Network // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

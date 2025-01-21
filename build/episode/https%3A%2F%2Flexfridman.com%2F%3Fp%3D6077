@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#452 – Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#452 – Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">November 11, 2024 at 7:53 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6077">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Dario Amodei is the CEO of Anthropic, the company that created Claude. Amanda Askell is an AI researcher working on Claude's character and personality. Chris Olah is an AI researcher working on mechanistic interpretability.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep452-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/dario-amodei-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Claude: https://claude.ai<br />
+Anthropic's X: https://x.com/AnthropicAI<br />
+Anthropic's Website: https://anthropic.com<br />
+Dario's X: https://x.com/DarioAmodei<br />
+Dario's Website: https://darioamodei.com<br />
+Machines of Loving Grace (Essay): https://darioamodei.com/machines-of-loving-grace<br />
+Chris's X: https://x.com/ch402<br />
+Chris's Blog: https://colah.github.io<br />
+Amanda's X: https://x.com/AmandaAskell<br />
+Amanda's Website: https://askell.io<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Encord: AI tooling for annotation & data management.<br />
+Go to https://encord.com/lex<br />
+Notion: Note-taking and team collaboration.<br />
+Go to https://notion.com/lex<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+BetterHelp: Online therapy and counseling.<br />
+Go to https://betterhelp.com/lex<br />
+LMNT: Zero-sugar electrolyte drink mix.<br />
+Go to https://drinkLMNT.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(10:19) - Scaling laws<br />
+(19:25) - Limits of LLM scaling<br />
+(27:51) - Competition with OpenAI, Google, xAI, Meta<br />
+(33:14) - Claude<br />
+(36:50) - Opus 3.5<br />
+(41:36) - Sonnet 3.5<br />
+(44:56) - Claude 4.0<br />
+(49:07) - Criticism of Claude<br />
+(1:01:54) - AI Safety Levels<br />
+(1:12:42) - ASL-3 and ASL-4<br />
+(1:16:46) - Computer use<br />
+(1:26:41) - Government regulation of AI<br />
+(1:45:30) - Hiring a great team<br />
+(1:54:19) - Post-training<br />
+(1:59:45) - Constitutional AI<br />
+(2:05:11) - Machines of Loving Grace<br />
+(2:24:17) - AGI timeline<br />
+(2:36:52) - Programming<br />
+(2:43:52) - Meaning of life<br />
+(2:49:58) - Amanda Askell - Philosophy<br />
+(2:52:26) - Programming advice for non-technical people<br />
+(2:56:15) - Talking to Claude<br />
+(3:12:47) - Prompt engineering<br />
+(3:21:21) - Post-training<br />
+(3:26:00) - Constitutional AI<br />
+(3:30:53) - System prompts<br />
+(3:37:00) - Is Claude getting dumber?<br />
+(3:49:02) - Character training<br />
+(3:50:01) - Nature of truth<br />
+(3:54:38) - Optimal rate of failure<br />
+(4:01:49) - AI consciousness<br />
+(4:16:20) - AGI<br />
+(4:24:58) - Chris Olah - Mechanistic Interpretability<br />
+(4:29:49) - Features, Circuits, Universality<br />
+(4:47:23) - Superposition<br />
+(4:58:22) - Monosemanticity<br />
+(5:05:14) - Scaling Monosemanticity<br />
+(5:14:02) - Macroscopic behavior of neural networks<br />
+(5:18:56) - Beauty of neural networks
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
