@@ -34,7 +34,7 @@
         <div class="text-muted mb-4">January 14 at 11:00 AM</div>
 
         <audio controls class="audio-player" data-guid="05d1be16-c2fc-4070-aa8c-db9274cca39d">
-            <source src="https://stitcher.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/05112159-5afc-4bfa-a163-c6bbfb513f20/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=05112159-5afc-4bfa-a163-c6bbfb513f20&amp;feed=azy33G8_" type="audio/mpeg">
+            <source src="https://injector.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/05112159-5afc-4bfa-a163-c6bbfb513f20/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=05112159-5afc-4bfa-a163-c6bbfb513f20&amp;feed=azy33G8_" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 

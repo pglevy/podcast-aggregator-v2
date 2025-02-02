@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Steve Jobs  and Edwin Land - Podcast Aggregator</title>
+    <title>John Rekenthaler: ‘The House Is With You When You’re Investing’ - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">Founders</li>
+                <li class="breadcrumb-item active">The Long View</li>
             </ol>
         </nav>
 
         
-        <img src="https://image.simplecastcdn.com/images/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/721c2dd0-f766-4405-a701-dcd9179d4a5b/3000x3000/1495013501artwork.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="Founders">
+        <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
         
 
-        <h1 class="mb-3">Steve Jobs  and Edwin Land</h1>
-        <div class="podcast-title">Founders</div>
-        <div class="text-muted mb-4">October 20, 2024 at 5:57 PM</div>
+        <h1 class="mb-3">John Rekenthaler: ‘The House Is With You When You’re Investing’</h1>
+        <div class="podcast-title">The Long View</div>
+        <div class="text-muted mb-4">January 28 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="b4a01226-9863-4aad-92f8-2440f8418d02">
-            <source src="https://cdn.simplecast.com/audio/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/cc8f351d-342e-4a65-ac87-4e5381437761/audio/61f74890-91bf-4d9b-9799-8c6f97d773a6/default_tc.mp3?aid=rss_feed&amp;feed=3hnxp7yk" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="d57f9099-1371-4450-b30a-40a72b3e2b40">
+            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/36eba607-4453-429a-98b0-45b0c483ba0a.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            What I learned from rereading Instant: The Story of Polaroid by Christopher Bonanos.
+            A legendary investment writer reflects on what’s changed and what hasn’t over his decadeslong career.
         </div>
     </div>
 </div>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>518. Lawyer, Physician, Anti-Vaxxer, Jan 6th “Rioter” | Dr. Simone Gold - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">518. Lawyer, Physician, Anti-Vaxxer, Jan 6th “Rioter” | Dr. Simone Gold</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">January 27 at 9:15 PM</div>
+
+        <audio controls class="audio-player" data-guid="bb1e631b-a70c-40a3-a843-17455698c7db">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/88319a5f-2600-45aa-8e31-a05eaa93ccb2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=88319a5f-2600-45aa-8e31-a05eaa93ccb2&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Jordan Peterson sits down with physician and lawyer, Dr. Simone Gold. They discuss her personal story of becoming both a doctor and a lawyer, running an ER clinic through the Ebola scare, why she spoke out during the COVID pandemic, how the machine attempted to destroy her public image, January 6th, being raided and imprisoned by the U.S. Government, and why she will not back down. 
+
+Dr. Simone Gold, MD, JD, is America’s expert voice of common sense and scientific clarity in the information war against Medical Marxism. Dr.Gold is an emergency physician, Stanford University - educated attorney, and the visionary who led the pivotal press conference event that broke the spell of the corona virus panic in 2020. Creating the most viral moment in modern media history, Dr. Gold became the founder of America’s Frontline Doctors (AFLDS), the nation’s premier medical civil liberties organization. The mission of AFLDS is to provide independent information from the world’s top experts in medicine and law, empowering people to protect their health and exercise their inalienable and Constitutionally guaranteed rights.
+
+This episode was filmed on December 23rd, 2024
+
+
+| Links |
+
+For Dr. Simone Gold:
+
+X https://x.com/drsimonegold 
+
+Watch the film “What is A Doctor?” here https://americasfrontlinedoctors.org/whatisadoctor 
+
+“I Do Not Consent: My Fight Against Medical Cancel Culture” (book) https://a.co/d/0k7mpnw
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

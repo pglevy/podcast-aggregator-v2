@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">TSMC (Remastered)</h1>
         <div class="podcast-title">Acquired</div>
-        <div class="text-muted mb-4">Today at 6:00 AM</div>
+        <div class="text-muted mb-4">January 21 at 6:00 AM</div>
 
         <audio controls class="audio-player" data-guid="a1483907-0d11-4387-85d1-d8d00729a53f">
             <source src="https://media.transistor.fm/63871a7d/f4dd3fc9.mp3" type="audio/mpeg">

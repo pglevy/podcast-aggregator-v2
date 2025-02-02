@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ed Slott: Tax Planning for 2025 and Beyond - Podcast Aggregator</title>
+    <title>Support is a Feature - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">The Long View</li>
+                <li class="breadcrumb-item active">REWORK</li>
             </ol>
         </nav>
 
         
-        <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
+        <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
         
 
-        <h1 class="mb-3">Ed Slott: Tax Planning for 2025 and Beyond</h1>
-        <div class="podcast-title">The Long View</div>
-        <div class="text-muted mb-4">November 26, 2024 at 6:00 PM</div>
+        <h1 class="mb-3">Support is a Feature</h1>
+        <div class="podcast-title">REWORK</div>
+        <div class="text-muted mb-4">January 22 at 9:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="83925b30-08cd-4334-8c05-55739252b916">
-            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/c32b2b8a-0883-4d1f-9bea-d3d5b062852f.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="Buzzsprout-16480754">
+            <source src="https://www.buzzsprout.com/2260539/episodes/16480754-support-is-a-feature.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            The tax and IRA expert weighs in on tax-savvy retirement planning, Roth conversions, and the new rules for inherited IRAs.
+            Customer support is more than just a department — it’s a core feature of any great product. In this episode of The REWORK Podcast, Kimberly Rhodes chats with Chase Clemons, Head of Customer Support at 37signals, about the company's view of support as a product feature. They discuss 37signals' approach to helping customers, the value of ongoing training, and how AI can fit into support strategy without sacrificing the personal connection.Key Takeaways:00:37 – Chase Clemons, Head of Support at ...
         </div>
     </div>
 </div>
