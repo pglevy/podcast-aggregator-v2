@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Competition is Your Costs - Podcast Aggregator</title>
+    <title>Blogging Isn&#39;t Dead - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -29,17 +29,17 @@
         <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
         
 
-        <h1 class="mb-3">Your Competition is Your Costs</h1>
+        <h1 class="mb-3">Blogging Isn&#39;t Dead</h1>
         <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">November 27, 2024 at 9:00 AM</div>
+        <div class="text-muted mb-4">February 5 at 9:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16178528">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16178528-your-competition-is-your-costs.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="Buzzsprout-16566044">
+            <source src="https://www.buzzsprout.com/2260539/episodes/16566044-blogging-isn-t-dead.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Remaining profitable in business is a simple equation — sales revenue exceeding operating costs. In this episode of The REWORK Podcast, 37signals’ co-founders Jason Fried and David Heinemeier Hansson explain why controlling costs should be a bigger focus than what your competition is doing. They share some simple strategies for analyzing costs and share why operating without a formal office space might be worth considering.Key Takeaways:00:37 – Why you should stop worrying about what everyone...
+            Does blogging still matter in tech? In this episode of The REWORK Podcast, host Kimberly Rhodes chats with 37signals' Principal Programmer Jorge Manrubia about why blogging is very much alive. They dig into the history of the 37signals developers blog, the company's process for contributions, and the added benefits this communication tool provides.  Key Takeaways: 00:50 – Meet Jorge01:03 – The history of the 37signals developers blog02:25 – The process — who contributes and how topics ar...
         </div>
     </div>
 </div>

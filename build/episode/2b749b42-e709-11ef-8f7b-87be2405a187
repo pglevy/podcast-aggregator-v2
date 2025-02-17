@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#369 Elon Musk and The Early Days of SpaceX - Podcast Aggregator</title>
+    <title>#2270 - Bridget Phetasy - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,28 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">Founders</li>
+                <li class="breadcrumb-item active">The Joe Rogan Experience</li>
             </ol>
         </nav>
 
         
-        <img src="https://image.simplecastcdn.com/images/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/721c2dd0-f766-4405-a701-dcd9179d4a5b/3000x3000/1495013501artwork.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="Founders">
+        <img src="https://megaphone.imgix.net/podcasts/2b749b42-e709-11ef-8f7b-87be2405a187/image/54f4651f6ac07c909c3f082612b6f119.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#369 Elon Musk and The Early Days of SpaceX</h1>
-        <div class="podcast-title">Founders</div>
-        <div class="text-muted mb-4">November 1, 2024 at 11:09 PM</div>
+        <h1 class="mb-3">#2270 - Bridget Phetasy</h1>
+        <div class="podcast-title">The Joe Rogan Experience</div>
+        <div class="text-muted mb-4">February 10 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="244fe7cd-c744-41f8-841b-951443b8b843">
-            <source src="https://cdn.simplecast.com/audio/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/95a9f4ee-a821-4e71-956a-c2fe0ec71259/audio/78b30929-6867-4019-9b47-2825738daac5/default_tc.mp3?aid=rss_feed&amp;feed=3hnxp7yk" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="2b749b42-e709-11ef-8f7b-87be2405a187">
+            <source src="https://traffic.megaphone.fm/GLT4393236261.mp3?updated=1739219799" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            What I learned from rereading Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX by Eric Berger.
+            Bridget Phetasy is a writer and stand-up comedian. She hosts the show “Dumpster Fire" and also the podcast “Walk-Ins Welcome.”
+
+www.phetasy.com
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>
 </div>

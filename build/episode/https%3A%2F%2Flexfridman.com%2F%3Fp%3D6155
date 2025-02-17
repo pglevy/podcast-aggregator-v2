@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#459 – DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#459 – DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">February 3 at 3:37 AM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6155">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_deepseek_dylan_patel_nathan_lambert.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Dylan Patel is the founder of SemiAnalysis, a research & analysis company specializing in semiconductors, GPUs, CPUs, and AI hardware. Nathan Lambert is a research scientist at the Allen Institute for AI (Ai2) and the author of a blog on AI called Interconnects.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep459-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/deepseek-dylan-patel-nathan-lambert-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Dylan's X: https://x.com/dylan522p<br />
+SemiAnalysis: https://semianalysis.com/<br />
+Nathan's X: https://x.com/natolambert<br />
+Nathan's Blog: https://www.interconnects.ai/<br />
+Nathan's Podcast: https://www.interconnects.ai/podcast<br />
+Nathan's Website: https://www.natolambert.com/<br />
+Nathan's YouTube: https://youtube.com/@natolambert<br />
+Nathan's Book: https://rlhfbook.com/<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Invideo AI: AI video generator.<br />
+Go to https://invideo.io/i/lexpod<br />
+GitHub: Developer platform and AI code editor.<br />
+Go to https://gh.io/copilot<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+NetSuite: Business management software.<br />
+Go to http://netsuite.com/lex<br />
+AG1: All-in-one daily nutrition drinks.<br />
+Go to https://drinkag1.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(13:28) - DeepSeek-R1 and DeepSeek-V3<br />
+(35:02) - Low cost of training<br />
+(1:01:19) - DeepSeek compute cluster<br />
+(1:08:52) - Export controls on GPUs to China<br />
+(1:19:10) - AGI timeline<br />
+(1:28:35) - China's manufacturing capacity<br />
+(1:36:30) - Cold war with China<br />
+(1:41:00) - TSMC and Taiwan<br />
+(2:04:38) - Best GPUs for AI<br />
+(2:19:30) - Why DeepSeek is so cheap<br />
+(2:32:49) - Espionage<br />
+(2:41:52) - Censorship<br />
+(2:54:46) - Andrej Karpathy and magic of RL<br />
+(3:05:17) - OpenAI o3-mini vs DeepSeek r1<br />
+(3:24:25) - NVIDIA<br />
+(3:28:53) - GPU smuggling<br />
+(3:35:30) - DeepSeek training on OpenAI data<br />
+(3:45:59) - AI megaclusters<br />
+(4:21:21) - Who wins the race to AGI?<br />
+(4:31:34) - AI agents<br />
+(4:40:16) - Programming and AI<br />
+(4:47:43) - Open source<br />
+(4:56:55) - Stargate<br />
+(5:04:24) - Future of AI
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

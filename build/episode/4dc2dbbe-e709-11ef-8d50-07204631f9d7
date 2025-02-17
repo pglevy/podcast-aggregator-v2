@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2259 - Thomas Campbell - Podcast Aggregator</title>
+    <title>#2272 - Mike Benz - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,24 +26,27 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/d7851760-d14a-11ef-8cce-bb087804d940/image/ad407973a8d1b72dbf23f4d34177f0f2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/4dc2dbbe-e709-11ef-8d50-07204631f9d7/image/e4d79baee7c4ea6ef29df32450c6f9be.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2259 - Thomas Campbell</h1>
+        <h1 class="mb-3">#2272 - Mike Benz</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">January 17 at 6:00 PM</div>
+        <div class="text-muted mb-4">February 12 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="d7851760-d14a-11ef-8cce-bb087804d940">
-            <source src="https://traffic.megaphone.fm/GLT7511861557.mp3?updated=1737591497" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="4dc2dbbe-e709-11ef-8d50-07204631f9d7">
+            <source src="https://traffic.megaphone.fm/GLT8382346215.mp3?updated=1739409736" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Thomas Campbell is a physicist, consciousness researcher, and author of the "My Big TOE" trilogy.
-www.my-big-toe.com
+            Mike Benz is a former official with the U.S. Department of State and current Executive Director of the Foundation For Freedom Online, is a free speech watchdog organization dedicated to restoring the promise of a free and open Internet.
+www.foundationforfreedomonline.com
 
-This episode is brought to you by Visible. New members can get the Visible plan for just $20/mo for 25 months. Switch by 1/31/2025 at http://Visible.com/ROGAN with promo code ROGAN. Terms apply.
-Take ownership of your health with AG1 and get a FREE bottle of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to drinkag1.com/joerogan
+For a FREE trial and 10% off your first Squarespace website or domain, visit www.squarespace.com/ROGAN
+
+This episode is brought to you by BetterHelp.
+Get working on a better you with therapy.
+Visit BetterHelp.com/JRE today to get 10% off your first month.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>

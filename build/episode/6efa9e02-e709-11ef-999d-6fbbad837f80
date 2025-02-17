@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2263 - Gad Saad - Podcast Aggregator</title>
+    <title>#2273 - Adam Curry - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,26 +26,25 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/dd31ca9e-dd0e-11ef-aa7e-e760c6207c5a/image/c79cd72a15a718562e4cfde951998400.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/6efa9e02-e709-11ef-999d-6fbbad837f80/image/5b0133a3586077d852841fa73383ae2f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2263 - Gad Saad</h1>
+        <h1 class="mb-3">#2273 - Adam Curry</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">January 28 at 6:00 PM</div>
+        <div class="text-muted mb-4">February 13 at 6:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="dd31ca9e-dd0e-11ef-aa7e-e760c6207c5a">
-            <source src="https://traffic.megaphone.fm/GLT4032393532.mp3?updated=1738082749" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="6efa9e02-e709-11ef-999d-6fbbad837f80">
+            <source src="https://traffic.megaphone.fm/GLT4050259975.mp3?updated=1739469802" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Gad Saad is Visiting Professor and Global Ambassador at Northwood University, and an expert in the application of evolutionary psychology in marketing and consumer behavior. He is the host of "The Saad Truth with Dr. Saad" podcast, and the author of several books, including "The Saad Truth about Happiness: 8 Secrets for Leading the Good Life." 
-
-www.gadsaad.com
-
-Take ownership of your health with AG1 and get a FREE bottle of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to drinkag1.com/joerogan
+            Adam Curry is an internet entrepreneur, former MTV VJ, and podcasting pioneer. He is the co-host, along with John C. Dvorak, of the "No Agenda" podcast.
+www.noagendashow.net
 
 This episode is brought to you by ZipRecruiter — 4 out of 5 employers who post on ZipRecruiter get a quality candidate within the first day. Try ZipRecruiter FOR FREE at ziprecruiter.com/rogan
+
+Go to https://www.expressvpn.com/ROGAN and find out how you can get 4 months of ExpressVPN free!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>
