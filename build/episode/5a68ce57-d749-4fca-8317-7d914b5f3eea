@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How I Found My First Agent and Editorial Clients - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/42558421-1739857325960-12d04874cdc2c.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">How I Found My First Agent and Editorial Clients</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">Yesterday at 5:42 AM</div>
+
+        <audio controls class="audio-player" data-guid="5a68ce57-d749-4fca-8317-7d914b5f3eea">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/98649823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-17%2F0b832c18-de40-7d26-dc5d-d8e7cd44175c.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>Take &quot;Drawing Ideas: Create Conceptual Illustrations for Editorial and Beyond &quot; on Skillshare! -  https://skl.sh/40dk9rK (Use my link to get 30 days free).</p><p><strong>Today I answer the question, “How did you approach getting representation and landing your first editorial clients?”</strong> </p><p>Thanks to @sipcozyart on Threads for the question! </p><p><br /></p><p><strong>IN THIS EPISODE</strong></p><ul> <li>How do you know when you’re ready to reach out to a rep?</li></ul><ul> <li>What do you say to an agent when you’re reaching out?</li></ul><ul>  <li>What is an illustration rep/agent, and what do they do?</li></ul><ul>  <li>How I found my rep, what I sent, and why I think it worked</li></ul><ul>  <li>How I found my first editorial projects/clients</li></ul><ul>  <li>And more!</li></ul><p><br /></p><p><strong>SHOW LINKS</strong></p><p>Illustration Coaching - http://tomfroese.com/coaching</p><p>My Classes - http://tomfroese.com/teaching</p><p>Secret Random Episode (<a href="https://www.patreon.com/posts/secret-random-48-122527763?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link" rel="noopener noreferrer nofollow" target="_blank">on Patreon</a>) - <a href="https://www.patreon.com/posts/secret-random-48-122527763" rel="noopener noreferrer nofollow" target="_blank">https://www.patreon.com/posts/secret-random-48-122527763</a></p><p><br /></p><p><strong>HOW TO SUPPORT</strong></p><ol>  <li>Share this episode with your friends on Social Media! </li>  <li>Like, Comment, Follow, Subscribe! </li>  <li>Become a $3 Fan or $8 Drawing Buddy on Patreon. Visit ⁠⁠⁠http://patreon.com/tomfroese⁠⁠⁠ to learn more.</li></ol><p><br /></p><p><strong>CREDITS</strong></p><p>Music and Cues by Mark Allan Falk - ⁠http://www.linktr.ee/semiathletic⁠⁠</p><p><br /></p><p><br /></p><p><br /></p><p>FIND ME ELSEWHERE</p><p><br /></p><p>Work and Classes - http://www.tomfroese.com</p><p><br /></p><p>Instagram - http://www.instagram.com/mrtomfroese</p><p><br /></p><p>Daily Drawings - http://www.instagram.com/drawingisimportant</p><p><br /></p><p><br /></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
