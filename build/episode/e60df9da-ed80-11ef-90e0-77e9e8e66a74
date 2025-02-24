@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">#2274 - Mike Baker</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">Today at 6:00 PM</div>
+        <div class="text-muted mb-4">February 19 at 6:00 PM</div>
 
         <audio controls class="audio-player" data-guid="e60df9da-ed80-11ef-90e0-77e9e8e66a74">
             <source src="https://traffic.megaphone.fm/GLT2257886184.mp3?updated=1739994624" type="audio/mpeg">
