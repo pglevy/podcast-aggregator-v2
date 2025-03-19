@@ -51,6 +51,7 @@ args = "python -m app.build"
 [deployment]
 deploymentTarget = "static"
 publicDir = "build"
+build = ["sh", "-c", "python -m app.build"]
 
 [[ports]]
 localPort = 5000

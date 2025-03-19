@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">Rolex</h1>
         <div class="podcast-title">Acquired</div>
-        <div class="text-muted mb-4">Today at 4:34 AM</div>
+        <div class="text-muted mb-4">February 24 at 4:34 AM</div>
 
         <audio controls class="audio-player" data-guid="94dbf581-80c8-4b90-aff2-fa649cd90edd">
             <source src="https://media.transistor.fm/7bea4e45/0aa48fa3.mp3" type="audio/mpeg">

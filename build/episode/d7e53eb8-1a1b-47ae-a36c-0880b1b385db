@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Are You Not Entertained? The Myths and Truths About Roman Gladiators - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Art of Manliness</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/0dbb2522-c63f-4bea-bb79-1b525d40a696/3000x3000/art-of-manliness-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Art of Manliness">
+        
+
+        <h1 class="mb-3">Are You Not Entertained? The Myths and Truths About Roman Gladiators</h1>
+        <div class="podcast-title">The Art of Manliness</div>
+        <div class="text-muted mb-4">Yesterday at 10:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="d7e53eb8-1a1b-47ae-a36c-0880b1b385db">
+            <source src="https://pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/441/injector.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/995d572a-09fd-40ba-a8ba-5f1807ce66c5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=995d572a-09fd-40ba-a8ba-5f1807ce66c5&amp;feed=azy33G8_" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            When you think about ancient gladiators, you likely have a certain vision that comes to mind: slaves forced to fight to the death for the entertainment of bloodthirsty Romans.
+
+But much of what we think we know about gladiators is actually wrong.
+
+Today on the show, Alexander Mariotti will separate the just-as-fascinating fact from popular-culture-derived fiction when it comes to gladiatorial combat in ancient Rome. Alexander is a historian and an expert on gladiators who's served as a consultant for shows and films like Spartacus and Gladiator II.
+
+In our conversation, Alexander explains how gladiatorial games evolved from funeral rites into professional sporting events featuring the greatest superstar athletes and sex symbols of the day. We discuss the different types of gladiators, their rigorous training regimens, why gladiators fought in their underwear, and whether they actually fought to the death. Alexander describes what a day at the Colosseum was really like, complete with elaborate special effects, halftime shows, souvenirs, and even concessions. And we talk about the connections between the gladiatorial games and the sports and spectacle culture of today, and why, despite the passage of two millennia, these ancient athletes continue to captivate our imagination.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

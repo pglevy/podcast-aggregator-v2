@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 Ways to Survive in 2025 as an Illustrator - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/42558421-1741037113796-b1a04ebf12e4d.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">5 Ways to Survive in 2025 as an Illustrator</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">March 3 at 9:42 PM</div>
+
+        <audio controls class="audio-player" data-guid="a1359dc0-33df-41fd-b4fa-83a61a5bae98">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/99267325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-2%2F023f8bb4-25a1-c832-78d8-79fa93550a15.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>Take Composition for Illustrators on Skillshare. Learn how composition works on last year’s 2nd most-watched class! Use my link to get 30 days of free Skillshare membership. — <a href="https://skl.sh/3vtU3Ep">https://skl.sh/3vtU3Ep</a></p><p><br /></p><p><strong>In this episode, I share 5 tips to help you maximize your earnings and your joy in turbulent times as an illustrator.</strong></p><p><br /></p><p>IN THIS EPISODE</p><ul><li>What it means to diversify your definition of illustration</li><li>A guaranteed way to stand out to art directors</li><li>Tips for maximizing the impact of your portfolio</li><li>Overcoming creative loneliness</li><li>Why a personal daily drawing practice is key to your professional survival </li><li>A listener shares her thoughts on the podcast</li></ul><p><br /></p><p>SHOW LINKS</p><ul><li>Illustration Coaching - <a href="http://tomfroese.com/coaching">http://tomfroese.com/coaching</a></li><li>All My Classes - <a href="http://tomfroese.com/teaching">http://tomfroese.com/teaching</a></li><li>The Studio (Creative Boom) - <a href="https://community.creativeboom.com">https://community.creativeboom.com</a></li></ul><p><br /></p><p>HOW TO SUPPORT</p><ul><li>Share this episode with your friends on Social Media!   </li><li>Like, Comment, Follow, Subscribe!   </li><li>Become a $3 Fan or $8 Drawing Buddy on Patreon. Visit ⁠⁠⁠<a href="http://patreon.com/tomfroese%E2%81%A0%E2%81%A0%E2%81%A0">http://patreon.com/tomfroese⁠⁠⁠</a> to learn more.</li></ul><p><br /></p><p>FIND ME ELSEWHERE</p><p><br /></p><p>Work and Classes - <a href="http://www.tomfroese.com">http://www.tomfroese.com</a></p><p>Instagram - <a href="http://www.instagram.com/mrtomfroese">http://www.instagram.com/mrtomfroese</a></p><p>Daily Drawings - <a href="http://www.instagram.com/drawingisimportant">http://www.instagram.com/drawingisimportant</a></p><p><br /></p><p>CREDITS</p><ul><li>Music and Cues by Mark Allan Falk - ⁠http://www.linktr.ee/semiathletic⁠⁠</li></ul><p><br /></p><p><br /></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
