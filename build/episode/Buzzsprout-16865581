@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Building to Flip is Building to Flop (replay) - Podcast Aggregator</title>
+    <title>Build a business that runs without you - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -29,17 +29,17 @@
         <img src="https://storage.buzzsprout.com/z3e8rpihv6tu8487yub5iswu6haa?.jpg" class="img-fluid mb-4 episode-image" alt="REWORK">
         
 
-        <h1 class="mb-3">Building to Flip is Building to Flop (replay)</h1>
+        <h1 class="mb-3">Build a business that runs without you</h1>
         <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">December 24, 2024 at 9:00 AM</div>
+        <div class="text-muted mb-4">March 26 at 7:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="Buzzsprout-16317679">
-            <source src="https://www.buzzsprout.com/2260539/episodes/16317679-building-to-flip-is-building-to-flop-replay.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="Buzzsprout-16865581">
+            <source src="https://www.buzzsprout.com/2260539/episodes/16865581-build-a-business-that-runs-without-you.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            In this episode (originally aired February 1, 2022), 37signals’ co-founders Jason Fried and David Heinemeier Hansson sit down with Shaun Hildner to discuss the consequences of building a business solely with the intention to sell. They share their perspective on building a business for the long haul versus for an exit. Key Takeaways: 00:46 – Building a company to sell can encourage mediocre output07:14 – Taking shortcuts is a reflection of one's character09:41 – Why it's better to have a comm...
+            Can you build a company that thrives even when you’re not in the room? In this episode of The REWORK Podcast, 37signals co-founders Jason Fried and David Heinemeier Hansson talk about the jobs they've created for themselves and how they're able to step away without progress coming to a halt. They discuss the fine line between being involved and letting the team run things without them. Key Takeaways: 00:14 – The importance of creating a job for yourself that you enjoy02:45 – The tragedy of ow...
         </div>
     </div>
 </div>

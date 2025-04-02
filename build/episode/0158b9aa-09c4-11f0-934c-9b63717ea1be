@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2288 - Jacques Vallée - Podcast Aggregator</title>
+    <title>#2294 - Dr. Suzanne Humphries - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,25 +26,26 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/729c1d34-fedc-11ef-b521-b393f834ff5d/image/e26fd3ec12636fbf21a44d9334246b9c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/0158b9aa-09c4-11f0-934c-9b63717ea1be/image/88a96c54b6a1f826da70a99e1535cc15.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2288 - Jacques Vallée</h1>
+        <h1 class="mb-3">#2294 - Dr. Suzanne Humphries</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">March 12 at 5:00 PM</div>
+        <div class="text-muted mb-4">March 26 at 5:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="729c1d34-fedc-11ef-b521-b393f834ff5d">
-            <source src="https://traffic.megaphone.fm/GLT4754296416.mp3?updated=1741797589" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="0158b9aa-09c4-11f0-934c-9b63717ea1be">
+            <source src="https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Jacques Vallée is a venture capitalist, technologist, and prominent figure in the field of unidentified aerial phenomena. His new book is Forbidden Science 6: Scattered Castles, The Journals of Jacques Vallee 2010-2019.
-www.jacquesvallee.net
+            Dr Humphries is a conventionally educated medical doctor who was a participant in conventional hospital systems from 1989 until 2011 as an internist and nephrologist. She left her conventional hospital position in good standing, of her own volition in 2011. Since then, she’s been furthering her research into the medical literature on vaccines, immunity, history, and functional medicine. She is the author of "Dissolving Illusions: Disease, Vaccines, and the Forgotten History."
 
-This episode is brought to you by Intuit TurboTax. Now this is taxes. Get an expert now at TurboTax.com
+http://dissolvingillusions.com/
 
-This video is sponsored by BetterHelp. Visit BetterHelp.com/JRE
+Save $20 on your first subscription of AG1 at drinkag1.com/joerogan
+
+50% off your first box at https://www.thefarmersdog.com/rogan!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>

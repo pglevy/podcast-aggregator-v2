@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2285 - Andrew Schulz - Podcast Aggregator</title>
+    <title>Fight Companion - March 22, 2025 - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,26 +26,20 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/dc65a694-f884-11ef-97dd-2741f8b0d070/image/36d2e0f8c82518376639c5da8c7e03f9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/fb9a2ea6-0782-11f0-81df-ef034b63a7f2/image/d52a2a46d3edc4fc6811315f50258b5f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2285 - Andrew Schulz</h1>
+        <h1 class="mb-3">Fight Companion - March 22, 2025</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">March 6 at 6:00 PM</div>
+        <div class="text-muted mb-4">March 23 at 1:04 AM</div>
 
-        <audio controls class="audio-player" data-guid="dc65a694-f884-11ef-97dd-2741f8b0d070">
-            <source src="https://traffic.megaphone.fm/GLT6184961809.mp3?updated=1741284644" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="fb9a2ea6-0782-11f0-81df-ef034b63a7f2">
+            <source src="https://traffic.megaphone.fm/GLT4258617175.mp3?updated=1742694632" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the "Flagrant" podcast with Akaash Singh, and the "Brilliant Idiots" podcast with Charlamagne Tha God. Look for his new special "Life" on March 4 on Netflix.
-www.theandrewschulz.com
-https://www.netflix.com/title/81741999
-
-Try ZipRecruiter FOR FREE at ziprecruiter.com/rogan
-
-Visit www.squarespace.com/ROGAN to save 10% off your first purchase of a website.
+            Joe is joined by Gordon Ryan, Brendan Schaub & Eddie Bravo to watch the fights on March 22, 2025.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
         </div>
     </div>

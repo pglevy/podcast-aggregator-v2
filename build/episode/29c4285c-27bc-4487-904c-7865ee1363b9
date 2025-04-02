@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Episode 70: Dr. Wes Gray discusses the unique tax benefits of ETFs and other topics of interest, host Rick Ferri - Podcast Aggregator</title>
+    <title>Dr. Jay Zigmont: Handling Your Finances When You Don’t Have Kids - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">Bogleheads On Investing Podcast</li>
+                <li class="breadcrumb-item active">The Long View</li>
             </ol>
         </nav>
 
         
-        <img src="https://pbcdn1.podbean.com/imglogo/image-logo/3450151/bogblog.jpg" class="img-fluid mb-4 episode-image" alt="Bogleheads On Investing Podcast">
+        <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
         
 
-        <h1 class="mb-3">Episode 70: Dr. Wes Gray discusses the unique tax benefits of ETFs and other topics of interest, host Rick Ferri</h1>
-        <div class="podcast-title">Bogleheads On Investing Podcast</div>
-        <div class="text-muted mb-4">May 30, 2024 at 12:31 AM</div>
+        <h1 class="mb-3">Dr. Jay Zigmont: Handling Your Finances When You Don’t Have Kids</h1>
+        <div class="podcast-title">The Long View</div>
+        <div class="text-muted mb-4">Yesterday at 5:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="bogleheads.podbean.com%2F314a6c9c-a663-3bde-8007-2299697bbcd1">
-            <source src="https://mcdn.podbean.com/mf/web/m87pk7ksxygvy3xy/Bogleheads_070.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="29c4285c-27bc-4487-904c-7865ee1363b9">
+            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/fc21a996-2970-4cc2-9784-831195076893.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Our topic of discussion for this podcast is exchange-traded funds (ETFs) and their unique tax benefits.
+            An author and financial planner discusses investment and personal finance considerations for ‘childfree’ adults.
         </div>
     </div>
 </div>

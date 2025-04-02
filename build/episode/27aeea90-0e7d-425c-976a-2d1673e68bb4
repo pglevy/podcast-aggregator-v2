@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Art of Exploration — Why We Seek New Challenges and Search Out the Unknown - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Art of Manliness</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/0dbb2522-c63f-4bea-bb79-1b525d40a696/3000x3000/art-of-manliness-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Art of Manliness">
+        
+
+        <h1 class="mb-3">The Art of Exploration — Why We Seek New Challenges and Search Out the Unknown</h1>
+        <div class="podcast-title">The Art of Manliness</div>
+        <div class="text-muted mb-4">March 25 at 10:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="27aeea90-0e7d-425c-976a-2d1673e68bb4">
+            <source src="https://pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/441/injector.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/8d3a807b-b991-4532-9a61-e1e5f8db174f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=8d3a807b-b991-4532-9a61-e1e5f8db174f&amp;feed=azy33G8_" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            The human urge to explore has taken us to every corner of the planet. From the highest peaks to far-flung islands to even the deepest dimensions of an idea, our species has an innate drive to venture into the unknown.
+
+But what exactly drives this need to explore? Is it genetic, cognitive, or something else entirely?
+
+Here to unpack this question is Alex Hutchinson, author of The Explorers Gene: Why We Seek Big Challenges, New Flavors, and the Blank Spots on the Map. Today on the show, Alex shares the fascinating science behind our exploratory tendencies, from the dopamine-driven "explorer's gene" that varies across populations to the universal cognitive frameworks that govern how we navigate both physical and mental landscapes. He explains the delicate balance between exploring new possibilities and exploiting what we already know, and why we sometimes find meaning in difficult challenges. We also discuss why younger people explore more than older people do, how this decline in exploration doesn't have to be inevitable, and how to keep exploring throughout your entire life.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

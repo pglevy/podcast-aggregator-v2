@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>46: Leading with Clarity (ft. Vuokko Aro) - Podcast Aggregator</title>
+    <title>Episode 80, Jeff Ptak, CFA, major trends in the mutual fund and ETF industry, host Rick Ferri - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,25 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">Finding Our Way</li>
+                <li class="breadcrumb-item active">Bogleheads On Investing Podcast</li>
             </ol>
         </nav>
 
         
-        <img src="https://findingourway.design/wp-content/uploads/2024/05/image.png" class="img-fluid mb-4 episode-image" alt="Finding Our Way">
+        <img src="https://pbcdn1.podbean.com/imglogo/image-logo/3450151/bogblog.jpg" class="img-fluid mb-4 episode-image" alt="Bogleheads On Investing Podcast">
         
 
-        <h1 class="mb-3">46: Leading with Clarity (ft. Vuokko Aro)</h1>
-        <div class="podcast-title">Finding Our Way</div>
-        <div class="text-muted mb-4">May 5, 2024 at 3:45 AM</div>
+        <h1 class="mb-3">Episode 80, Jeff Ptak, CFA, major trends in the mutual fund and ETF industry, host Rick Ferri</h1>
+        <div class="podcast-title">Bogleheads On Investing Podcast</div>
+        <div class="text-muted mb-4">March 27 at 3:32 PM</div>
 
-        <audio controls class="audio-player" data-guid="http%3A%2F%2Ffindingourway.design%2F%3Fp%3D3908">
-            <source src="https://findingourwaydesign.files.wordpress.com/2024/05/fow-e46-vuokko-aro.mp3" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="bogleheads.podbean.com%2F99993b60-203a-3235-8c09-653b5660dd0f">
+            <source src="https://mcdn.podbean.com/mf/web/7frcbxk442e5vs35/Bogleheads_080.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Vuokko Aro, VP of Design for the UK's popular digital-only bank Monzo, joins Peter and Jesse to talk about shifting your design approach as your company scales, building a true peer relationship with product leadership, and creating a sense of togetherness for remote and embedded teams.
+            Jeff Ptak talks about major new trends affecting the mutual fund and exchange-traded fund (ETF) industries, with a special focus on the exponential growth of actively managed ETFs.
         </div>
     </div>
 </div>

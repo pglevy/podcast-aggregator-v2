@@ -31,10 +31,10 @@
 
         <h1 class="mb-3">#2291 - Bert Kreischer</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">Yesterday at 5:00 PM</div>
+        <div class="text-muted mb-4">March 18 at 5:00 PM</div>
 
         <audio controls class="audio-player" data-guid="78483cc8-0381-11f0-8c89-835704463e81">
-            <source src="https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742315921" type="audio/mpeg">
+            <source src="https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742595530" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 

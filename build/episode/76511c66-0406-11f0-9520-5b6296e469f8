@@ -26,12 +26,12 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/MFM_ShowTile_2024.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="My First Million">
+        <img src="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="My First Million">
         
 
         <h1 class="mb-3">6 under-the-radar trends (+ our ideas)</h1>
         <div class="podcast-title">My First Million</div>
-        <div class="text-muted mb-4">Today at 11:00 AM</div>
+        <div class="text-muted mb-4">March 19 at 11:00 AM</div>
 
         <audio controls class="audio-player" data-guid="76511c66-0406-11f0-9520-5b6296e469f8">
             <source src="https://pdst.fm/e/chrt.fm/track/28555/pdrl.fm/2a922f/traffic.megaphone.fm/HS5296913611.mp3?updated=1742318124" type="audio/mpeg">

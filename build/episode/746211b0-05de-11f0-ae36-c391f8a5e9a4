@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2292 - Josh Waitzkin - Podcast Aggregator</title>
+    <title>#2293 - Chris Williamson - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,23 +26,23 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/5731c40c-0447-11f0-8c19-7babfe5c587b/image/45891bda621b65a808e6ff3f8db28027.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/746211b0-05de-11f0-ae36-c391f8a5e9a4/image/57fce1b55566e36c05193b51b6aa3496.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2292 - Josh Waitzkin</h1>
+        <h1 class="mb-3">#2293 - Chris Williamson</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">March 19 at 5:00 PM</div>
+        <div class="text-muted mb-4">March 21 at 5:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="5731c40c-0447-11f0-8c19-7babfe5c587b">
-            <source src="https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="746211b0-05de-11f0-ae36-c391f8a5e9a4">
+            <source src="https://traffic.megaphone.fm/GLT9925385764.mp3?updated=1742594984" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Josh Waitzkin is a retired chess champion, martial artist, author, and foil surfer.
-www.joshwaitzkin.com
+            Chris Williamson is the host of the "Modern Wisdom" podcast 
+https://chriswillx.com/modernwisdom
 
-This episode is brought to you by Intuit TurboTax. Now this is taxes. Get an expert now at TurboTax.com
+This video is sponsored by BetterHelp. Visit BetterHelp.com/JRE for 90% off your first week.
 
 Don’t miss out on all the action - Download the DraftKings app today! Sign-up using dkng.co/rogan or with my promo code ROGAN.
 

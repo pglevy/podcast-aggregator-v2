@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">Increasing Capacity</h1>
         <div class="podcast-title">REWORK</div>
-        <div class="text-muted mb-4">Today at 8:00 AM</div>
+        <div class="text-muted mb-4">March 19 at 8:00 AM</div>
 
         <audio controls class="audio-player" data-guid="Buzzsprout-16820221">
             <source src="https://www.buzzsprout.com/2260539/episodes/16820221-increasing-capacity.mp3" type="audio/mpeg">

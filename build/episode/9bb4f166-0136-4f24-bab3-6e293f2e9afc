@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2286 - Antonio Brown - Podcast Aggregator</title>
+    <title>Episode 51 Coming Soon - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -21,27 +21,25 @@
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">Home</a></li>
-                <li class="breadcrumb-item active">The Joe Rogan Experience</li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
             </ol>
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/edf50166-f884-11ef-8dea-ab23054ba9f5/image/ba1fe360182a8d00aebde495e07426e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42558421/3ae65ea6408e5fb9.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
         
 
-        <h1 class="mb-3">#2286 - Antonio Brown</h1>
-        <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">March 7 at 6:00 PM</div>
+        <h1 class="mb-3">Episode 51 Coming Soon</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">Yesterday at 7:00 AM</div>
 
-        <audio controls class="audio-player" data-guid="edf50166-f884-11ef-8dea-ab23054ba9f5">
-            <source src="https://traffic.megaphone.fm/GLT1444551878.mp3?updated=1741371099" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="9bb4f166-0136-4f24-bab3-6e293f2e9afc">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/100668019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2Fb2f169ea-52bb-32d3-63f7-a18834d4ef09.m4a" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Antonio Brown is a former professional football player, entertainer, and entrepreneur. 
-https://x.com/AB84
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
+            <p>With apologies! Stay tuned for Episode 51 — coming no later than April 8, 2025.</p>
         </div>
     </div>
 </div>

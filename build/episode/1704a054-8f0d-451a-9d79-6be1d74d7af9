@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyond Resilience — How to Become Shatterproof - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Art of Manliness</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/0dbb2522-c63f-4bea-bb79-1b525d40a696/3000x3000/art-of-manliness-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Art of Manliness">
+        
+
+        <h1 class="mb-3">Beyond Resilience — How to Become Shatterproof</h1>
+        <div class="podcast-title">The Art of Manliness</div>
+        <div class="text-muted mb-4">Yesterday at 10:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="1704a054-8f0d-451a-9d79-6be1d74d7af9">
+            <source src="https://pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/441/injector.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/b44e1244-20b4-4f6b-92a3-b119b4bc843f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=b44e1244-20b4-4f6b-92a3-b119b4bc843f&amp;feed=azy33G8_" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Resilience is often touted as the end all, be all of coping with life's challenges and setbacks. But my guest knows from her studies, executive coaching, and her own life that sometimes resilience just isn't enough. You need an even more durable source of strength.
+
+Dr. Tasha Eurich is an organizational psychologist and researcher and the author of Shatterproof: How to Thrive in a World of Constant Chaos. Today on the show, Tasha explains why the concept of resilience rose to prominence in the 2010s, how resilience can be improved a little as a skill, but is largely an exhaustible capacity, and how you know when you're hitting your "resilience ceiling." We then talk about the more sustainable skillset and strength of becoming shatterproof. We discuss the potential to grow forward instead of simply bouncing back, the psychological needs that have to be met to become shatterproof, and research-backed tools for thriving in life instead of just surviving.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

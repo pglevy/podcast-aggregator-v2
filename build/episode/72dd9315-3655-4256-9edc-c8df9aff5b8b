@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introducing The Morning Filter - Podcast Aggregator</title>
+    <title>Sudarshan Murthy: ‘These Countries Are in Much Better Shape Than They Were 10 Years Back’ - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -29,17 +29,17 @@
         <img src="https://image.simplecastcdn.com/images/a7b5d56f-cf75-4e57-b025-215586430012/3685e0b3-3185-4429-8526-aef264368bf5/3000x3000/the-long-view-podcast-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Long View">
         
 
-        <h1 class="mb-3">Introducing The Morning Filter</h1>
+        <h1 class="mb-3">Sudarshan Murthy: ‘These Countries Are in Much Better Shape Than They Were 10 Years Back’</h1>
         <div class="podcast-title">The Long View</div>
-        <div class="text-muted mb-4">January 24 at 9:38 PM</div>
+        <div class="text-muted mb-4">March 25 at 5:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="e12ad13e-1e0a-4162-a928-7076c13bcb26">
-            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/10c88c1f-e59f-4bd7-8b2a-1610c83ec47a.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="72dd9315-3655-4256-9edc-c8df9aff5b8b">
+            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/87e629c3-a5ed-4c5e-a345-2449365a3bb3.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Every Monday, Susan Dziubinski sits down with Morningstar Chief U.S. markets strategist Dave Sekera to discuss one thing that’s on his radar this week, one new piece of Morningstar research, and a few stock picks or pans for the week ahead.
+            A global investor sees opportunity in emerging markets.
         </div>
     </div>
 </div>

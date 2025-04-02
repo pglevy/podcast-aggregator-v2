@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#2292 - Josh Waitzkin - Podcast Aggregator</title>
+    <title>#2297 - Francis Foster &amp; Konstantin Kisin - Podcast Aggregator</title>
     <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
 </head>
@@ -26,23 +26,27 @@
         </nav>
 
         
-        <img src="https://megaphone.imgix.net/podcasts/5731c40c-0447-11f0-8c19-7babfe5c587b/image/45891bda621b65a808e6ff3f8db28027.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
+        <img src="https://megaphone.imgix.net/podcasts/0ad7399c-0c31-11f0-9161-53baa1840d5a/image/19625e3d88d1c84aeae5b1c1b39e4498.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="The Joe Rogan Experience">
         
 
-        <h1 class="mb-3">#2292 - Josh Waitzkin</h1>
+        <h1 class="mb-3">#2297 - Francis Foster &amp; Konstantin Kisin</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">March 19 at 5:00 PM</div>
+        <div class="text-muted mb-4">March 29 at 5:00 PM</div>
 
-        <audio controls class="audio-player" data-guid="5731c40c-0447-11f0-8c19-7babfe5c587b">
-            <source src="https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559" type="audio/mpeg">
+        <audio controls class="audio-player" data-guid="0ad7399c-0c31-11f0-9161-53baa1840d5a">
+            <source src="https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
         <div class="episode-description mt-4">
-            Josh Waitzkin is a retired chess champion, martial artist, author, and foil surfer.
-www.joshwaitzkin.com
+            Francis Foster is a writer and stand-up comic. Konstantin Kisin is a political commentator and author of "An Immigrant's Love Letter to the West." They are the hosts of the podcast and YouTube program "Triggernometry."
 
-This episode is brought to you by Intuit TurboTax. Now this is taxes. Get an expert now at TurboTax.com
+www.francisfoster.co.uk
+www.konstantinkisin.com
+
+https://www.youtube.com/@triggerpod
+
+Go to ExpressVPN.com/ROGAN to get 4 months free!
 
 Don’t miss out on all the action - Download the DraftKings app today! Sign-up using dkng.co/rogan or with my promo code ROGAN.
 

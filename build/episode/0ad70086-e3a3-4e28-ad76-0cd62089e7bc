@@ -34,7 +34,7 @@
         <div class="text-muted mb-4">February 25 at 3:02 AM</div>
 
         <audio controls class="audio-player" data-guid="0ad70086-e3a3-4e28-ad76-0cd62089e7bc">
-            <source src="https://cdn.simplecast.com/audio/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/d3737f72-5c8d-4531-a1f7-fea9351ef8df/audio/763023d2-a02b-478d-b5d1-3d8c5e15e902/default_tc.mp3?aid=rss_feed&amp;feed=3hnxp7yk" type="audio/mpeg">
+            <source src="https://afp-922710-injected.calisto.simplecastaudio.com/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/episodes/d3737f72-5c8d-4531-a1f7-fea9351ef8df/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=57933a1d-c5a9-4040-9aca-e766ae2ec0eb&amp;awEpisodeId=d3737f72-5c8d-4531-a1f7-fea9351ef8df&amp;feed=3hnxp7yk" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
