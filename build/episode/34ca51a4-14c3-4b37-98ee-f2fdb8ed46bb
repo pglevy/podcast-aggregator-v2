@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>542. Charlie Kirk’s Personal Story - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">542. Charlie Kirk’s Personal Story</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">April 28 at 8:15 PM</div>
+
+        <audio controls class="audio-player" data-guid="34ca51a4-14c3-4b37-98ee-f2fdb8ed46bb">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/e8bba4c2-23e2-4cb1-9d83-818bbb9b6f3e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=e8bba4c2-23e2-4cb1-9d83-818bbb9b6f3e&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Dr. Jordan B. Peterson engages in conversation with Charlie Kirk—author, speaker, and founder and CEO of Turning Point USA. They delve into Kirk’s emergence as a leading voice in the Conservative movement, his choice to bypass traditional higher education, and the early indicators of ideological bias in academia. The discussion also addresses how the university system has not only tilted toward the hyper-feminine but has transformed into a large-scale scam. Additionally, they examine academia’s departure from timeless questions of good and evil, faith, and foundational philosophy, to a focus on Marxist economics and cultural capture.
+
+Charlie Kirk is the Founder and CEO of Turning Point USA, a nonprofit organization dedicated to rallying, organizing, and empowering students to advocate for principles of freedom, free markets, and limited government.
+
+With a presence on more than 3,500 high school and college campuses in all 50 states, and supported by over 350 full-time staff members, Turning Point USA stands as the nation’s largest and fastest-growing conservative youth activist organization. In addition to Turning Point USA’s on-campus presence, it also operates a massive online outreach initiative that garners billions of video views annually and reaches millions of Americans every day with conservative, pro-America content. In addition to his role at Turning Point USA, Charlie also serves as the CEO and founder of Turning Point Action, a related entity operating under a 501(c)(4) status. Turning Point Action’s mission is to embolden the conservative base through grassroots activism and to provide voters with the necessary resources to elect true conservative leaders. Turning Point Action has earned recognition as one of the leading grassroots forces in the country today.
+
+This episode was filmed on March, 19th, 2025.
+
+
+| Links |
+
+For Charlie Kirk:
+
+On X https://x.com/charliekirk11/ 
+
+On YouTube https://www.youtube.com/channel/UCfaIu2jO-fppCQV_lchCRIQ 
+
+Turning Point USA website https://www.tpusa.com/ 
+
+Read “Right Wing Revolution” https://45books.com/products/right-wing-revolution-pre-order
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

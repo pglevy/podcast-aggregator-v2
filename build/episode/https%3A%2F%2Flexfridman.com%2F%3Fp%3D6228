@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#468 – Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes &amp; Extra Dimensions - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#468 – Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes &amp; Extra Dimensions</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">May 5 at 11:03 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6228">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_janna_levin.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Janna Levin is a theoretical physicist and cosmologist specializing in black holes, cosmology of extra dimensions, topology of the universe, and gravitational waves.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep468-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/janna-levin-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Janna's X: https://x.com/JannaLevin<br />
+Janna's Website: https://jannalevin.com<br />
+Janna's Instagram: https://instagram.com/jannalevin<br />
+Janna's Substack: https://substack.com/@jannalevin<br />
+Black Hole Survival Guide (book): https://amzn.to/3YkJzT5<br />
+Black Hole Blues (book): https://amzn.to/42Nw7IE<br />
+How the Universe Got Its Spots (book): https://amzn.to/4m5De8k<br />
+A Madman Dreams of Turing Machines (book): https://amzn.to/3GGakvd<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Brain.fm: Music for focus.<br />
+Go to https://brain.fm/lex<br />
+BetterHelp: Online therapy and counseling.<br />
+Go to https://betterhelp.com/lex<br />
+NetSuite: Business management software.<br />
+Go to http://netsuite.com/lex<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+AG1: All-in-one daily nutrition drink.<br />
+Go to https://drinkag1.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(00:51) - Sponsors, Comments, and Reflections<br />
+(09:21) - Black holes<br />
+(16:55) - Formation of black holes<br />
+(27:45) - Oppenheimer and the Atomic Bomb<br />
+(34:08) - Inside the black hole<br />
+(47:10) - Supermassive black holes<br />
+(50:39) - Physics of spacetime<br />
+(53:42) - General relativity<br />
+(59:13) - Gravity<br />
+(1:15:47) - Information paradox<br />
+(1:24:17) - Fuzzballs & soft hair<br />
+(1:27:28) - ER = EPR<br />
+(1:34:07) - Firewall<br />
+(1:42:59) - Extra dimensions<br />
+(1:45:24) - Aliens<br />
+(2:01:00) - Wormholes<br />
+(2:11:57) - Dark matter and dark energy<br />
+(2:22:00) - Gravitational waves<br />
+(2:34:08) - Alan Turing and Kurt Godel<br />
+(2:46:23) - Grigori Perelman, Andrew Wiles, and Terence Tao<br />
+(2:52:58) - Art and science<br />
+(3:02:37) - The biggest mystery<br />
+<br />
+PODCAST LINKS:<br />
+- Podcast Website: https://lexfridman.com/podcast<br />
+- Apple Podcasts: https://apple.co/2lwqZIr<br />
+- Spotify: https://spoti.fi/2nEwCF8<br />
+- RSS: https://lexfridman.com/feed/podcast/<br />
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4<br />
+- Clips Channel: https://www.youtube.com/lexclips
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

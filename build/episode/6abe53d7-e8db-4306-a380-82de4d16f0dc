@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overcoming Decision Paralysis in your Life and Work - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/42558421-1743979106464-9963b06ece802.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">Overcoming Decision Paralysis in your Life and Work</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">April 6 at 10:54 PM</div>
+
+        <audio controls class="audio-player" data-guid="6abe53d7-e8db-4306-a380-82de4d16f0dc">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/100927011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-6%2F6bc2dbe8-3822-469c-3f7f-386c94c2af0d.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>Eliminate time-wasting decisions by discovering your style! Learn more in The Style Class on Skillshare. https://skl.sh/4cFnIej — Use my link to get 30 days of free Skillshare membership.</p><p><br /></p><p>Decision Paralysis — or as some call it, Analysis Paralysis — is the experience of getting stuck on some kind of decision. It could be a big decision, or something very minor, but even the tiniest option can get us spinning our tires for hours or even days! If you struggle to make any kind of decisions, even sometimes, this episode is for you. I’ll open up by sharing some of my own experiences with indecision, and then I’ll share a few different illustration-specific situations where most of us might get stuck the most. I’ll share ways that I navigate these and keep moving, and of course, offer some ways you can use these in your own life.</p><p><br /></p><p>IN THIS EPISODE</p><ul><li>What is decision paralysis, and how can it get us stuck?</li><li>Why having keeping options to a minimum is necessary for the decision-impaired</li><li>How to give yourself “outside” feedback</li><li>What to do when you can’t stop making new iterations of an illustration</li><li>Why finding your reason for doing anything is the key to doing it at all</li><li>and more!</li></ul><p><br /></p><p>SHOW LINKS</p><ul><li>Illustration Coaching - http://tomfroese.com/coaching</li><li>All My Classes - http://tomfroese.com/teaching</li></ul><p><br /></p><p>HOW TO SUPPORT</p><ul><li>Share this episode with your friends on Social Media!   </li><li>Like, Comment, Follow, Subscribe!   </li><li>Become a $3 Fan or $8 Drawing Buddy on Patreon. Visit ⁠⁠⁠http://patreon.com/tomfroese⁠⁠⁠ to learn more.</li></ul><p><br /></p><p>FIND ME ELSEWHERE</p><ul><li>Work and Classes - http://www.tomfroese.com</li><li>Instagram - http://www.instagram.com/mrtomfroese</li><li>Daily Drawings - http://www.instagram.com/drawingisimportant</li></ul><p><br /></p><p>CREDITS</p><p>Music and Cues by Mark Allan Falk - ⁠http://www.linktr.ee/semiathletic⁠⁠</p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

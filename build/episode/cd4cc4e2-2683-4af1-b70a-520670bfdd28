@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>541. Why We Stopped Progressing | Peter Thiel - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">541. Why We Stopped Progressing | Peter Thiel</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">April 24 at 8:15 PM</div>
+
+        <audio controls class="audio-player" data-guid="cd4cc4e2-2683-4af1-b70a-520670bfdd28">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/eb582d3b-d149-47de-b5de-ee4431763af4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=eb582d3b-d149-47de-b5de-ee4431763af4&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Billionaire investor and PayPal co-founder Peter Thiel sits down with Jordan Peterson for a powerful conversation about why real progress has stalled. Thiel argues that the last truly groundbreaking achievement may have been landing on the moon—and since then, we've slowed down. He explains how fear, red tape, and over-specialization have made us more cautious and less ambitious.
+
+They dig into how society has shifted away from building and inventing, toward digital distractions and endless talk. They also explore what’s been lost as faith and meaning have disappeared from public life. From broken universities to status-driven culture wars, this is a deep and thought-provoking look at the challenges facing the West—and what we might do to turn things around.
+
+Peter Thiel is a German-born entrepreneur, venture capitalist, activist, and billionaire who emigrated to the U.S. as a child, eventually settling in California after years of moving between countries. A Stanford Law graduate, he began his career as a clerk and derivatives trader before founding Thiel Capital with $1 million from friends and family. Despite early setbacks, he co-founded Confinity, which became PayPal, launching a streak of ventures including Palantir, Clarium Capital, and early investment in Facebook. Thiel is an openly gay supporter of the Republican party, advocating for both equal rights and certain conservative policies, making his political stance admirably nuanced.
+
+This episode was filmed on March 31st, 2025.
+
+
+| Links |
+
+For Peter Thiel:
+
+X https://x.com/peterthiel?lang=en 
+
+Read “Zero to One: Notes on Startups, or How to Build the Future” https://a.co/d/fAfeXm8
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

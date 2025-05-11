@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Co-Intelligence — Using AI to Think Better, Create More, and Live Smarter - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Art of Manliness</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/0dbb2522-c63f-4bea-bb79-1b525d40a696/3000x3000/art-of-manliness-cover.jpg?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Art of Manliness">
+        
+
+        <h1 class="mb-3">Co-Intelligence — Using AI to Think Better, Create More, and Live Smarter</h1>
+        <div class="podcast-title">The Art of Manliness</div>
+        <div class="text-muted mb-4">April 15 at 10:00 AM</div>
+
+        <audio controls class="audio-player" data-guid="e388f428-aaf4-4561-9bbe-855c466d5b18">
+            <source src="https://pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/441/injector.simplecastaudio.com/1f63112c-076a-4aa7-8021-e8cbcdb2cafe/episodes/42cc1d5b-de4f-48c3-b298-3838c96d4ebf/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=1f63112c-076a-4aa7-8021-e8cbcdb2cafe&amp;awEpisodeId=42cc1d5b-de4f-48c3-b298-3838c96d4ebf&amp;feed=azy33G8_" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            The era of artificially intelligent large language models is upon us and isn't going away. Rather, AI tools like ChatGPT are only going to get better and better and affect more and more areas of human life.
+
+If you haven't yet felt both amazed and unsettled by these technologies, you probably haven't explored their true capabilities.
+
+My guest today will explain why everyone should spend at least 10 hours experimenting with these chatbots, what it means to live in an age where AI can pass the bar exam, beat humans at complex tests, and even make us question our own creative abilities, what AI might mean for the future of work and education, and how to use these new tools to enhance rather than detract from your humanity.
+
+Ethan Mollick is a professor at the Wharton business school and the author of Co-Intelligence: Living and Working with AI. Today on the show, Ethan explains the impact of the rise of AI and why we should learn to utilize tools like ChatGPT as a collaborator — a co-worker, co-teacher, co-researcher, and coach. He offers practical insights into harnessing AI to complement your own thinking, remove tedious tasks from your workday, and amplify your productivity. We'll also explore how to craft effective prompts for large language models, maximize their potential, and thoughtfully navigate what may be the most profound technological shift of our lifetimes.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

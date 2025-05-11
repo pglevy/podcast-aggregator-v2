@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>544. When the Right Goes Too Far | Dr. James Lindsay - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">544. When the Right Goes Too Far | Dr. James Lindsay</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">May 5 at 8:15 PM</div>
+
+        <audio controls class="audio-player" data-guid="f4ff5b0d-9210-43d7-b2f1-c931480199df">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/384eac93-67da-4f63-938b-891497c2b857/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=384eac93-67da-4f63-938b-891497c2b857&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Is the radical right becoming the very thing it hates? Dr. Jordan B. Peterson sits down with Dr. James Lindsay to unpack the rise of the "Woke Right"—a faction of online reactionaries using the same tactics of victimhood, outrage mobs, and cult-like behavior once exclusive to the radical left.
+
+Together, they explore how parasitic ideologies hijack belief systems, mimic virtue, and weaponize social media to manipulate the masses. From cluster B psychopathology to Nazi apologetics, from Marx to modern meme culture, this is a deep dive into the psychological and ideological rot infecting both ends of the spectrum.
+If you've sensed that something is deeply wrong in today’s culture wars—on both sides—this episode puts it into words.
+
+Dr. James Lindsay has written eight books spanning a range of subjects including education, postmodern theory, and critical race theory. Dr. Lindsay is the Founder of New Discourses, an organization dedicated to shining the light of objective truth in subjective darkness.  Dr. Lindsay is the co-author of “Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity―and Why This Harms Everybody” and is the author of “Race Marxism,” as well as his newest book, “The Marxification of Education.” Dr. Lindsay has been a featured guest on Fox News, Glenn Beck, Joe Rogan, and NPR, and he has spoken at the Oxford Union and the EU Parliament. 
+
+This episode was filmed on April, 29th, 2025.
+
+
+| Links |
+
+For Dr. James Lindsay:
+
+On X https://x.com/ConceptualJames?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor 
+
+On YouTube https://www.youtube.com/@newdiscourses/videos 
+
+Read his latest book, “The Queering of the American Child: How a New School Religious Cult Poisons the Minds and Bodies of Normal Kids” https://a.co/d/9lpXvGc
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Most Valuable Skill For Any Founder - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">My First Million</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" class="img-fluid mb-4 episode-image" alt="My First Million">
+        
+
+        <h1 class="mb-3">The Most Valuable Skill For Any Founder</h1>
+        <div class="podcast-title">My First Million</div>
+        <div class="text-muted mb-4">May 5 at 12:56 PM</div>
+
+        <audio controls class="audio-player" data-guid="b4573274-29af-11f0-8ef6-4331c5722498">
+            <source src="https://pdst.fm/e/chrt.fm/track/28555/pdrl.fm/2a922f/traffic.megaphone.fm/HS7077321329.mp3?updated=1746547579" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Episode 703: Sam Parr ( https://x.com/theSamParr ) and Shaan Puri ( https://x.com/ShaanVP ) talk to George Mack ( https://x.com/george__mack ) about high agency. 
+
+
+
+—
+
+Links:
+
+• Steal Sam's guide to turn ChatGPT into your Executive Coach: https://clickhubspot.com/wec
+
+• High Agency - https://www.highagency.com/ 
+
+• Nick Mowbray episode - https://www.youtube.com/watch?v=4pHcxoZ0j9A 
+
+
+
+
+
+—
+
+Check Out Shaan's Stuff:
+
+Need to hire? You should use the same service Shaan uses to hire developers, designers, & Virtual Assistants → it’s called Shepherd (tell ‘em Shaan sent you): https://bit.ly/SupportShepherd
+
+—
+
+Check Out Sam's Stuff:
+
+• Hampton - https://www.joinhampton.com/
+
+• Ideation Bootcamp - https://www.ideationbootcamp.co/
+
+• Copy That - https://copythat.com
+
+• Hampton Wealth Survey - https://joinhampton.com/wealth
+
+• Sam’s List - http://samslist.co/
+
+My First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

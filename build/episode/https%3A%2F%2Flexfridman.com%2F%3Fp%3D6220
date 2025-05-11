@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#467 – Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#467 – Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">April 30 at 9:53 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6220">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_sweeney.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Tim Sweeney is a legendary video game programmer, founder and CEO of Epic Games that created the Unreal Engine, Fortnite, Gears of War, Unreal Tournament, and many other groundbreaking and influential video games.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep467-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/tim-sweeney-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Tim's X: https://x.com/timsweeneyepic<br />
+Epic Games: https://epicgames.com/<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Notion: Note-taking and team collaboration.<br />
+Go to https://notion.com/lex<br />
+MasterClass: Online classes from world-class experts.<br />
+Go to https://masterclass.com/lexpod<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+AG1: All-in-one daily nutrition drink.<br />
+Go to https://drinkag1.com/lex<br />
+LMNT: Zero-sugar electrolyte drink mix.<br />
+Go to https://drinkLMNT.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(08:25) - 10,000 hours programming<br />
+(11:42) - Advice for young programmers<br />
+(19:54) - Video games in the 80s and 90s<br />
+(22:02) - Epic Games origin story<br />
+(34:40) - Indie game development<br />
+(40:34) - Unreal Engine<br />
+(1:06:30) - Technical details of Unreal Engine<br />
+(1:11:23) - Constructive solid geometry<br />
+(1:17:21) - Dynamic lighting<br />
+(1:21:51) - Volumetric fog<br />
+(1:25:19) - John Carmack<br />
+(1:27:05) - Evolution of Unreal Engine<br />
+(1:33:21) - Unreal Engine 5<br />
+(1:44:32) - Creating realistic humans<br />
+(1:53:41) - Lumen global illumination<br />
+(1:58:11) - Movies<br />
+(2:12:53) - Simulating reality<br />
+(2:25:08) - Metaverse<br />
+(2:27:44) - Fortnite<br />
+(2:31:40) - Scaling<br />
+(2:47:04) - Game economies<br />
+(2:48:33) - Standardizing the Metaverse<br />
+(2:56:46) - Verse programming language<br />
+(3:18:19) - Concurrency<br />
+(3:25:56) - Unreal Engine 6<br />
+(3:30:34) - Indie game developers<br />
+(3:33:32) - Apple<br />
+(3:48:12) - Epic Games Store<br />
+(4:11:03) - Future of gaming<br />
+(4:17:03) - Greatest games ever made<br />
+(4:22:39) - GTA 6 and Rockstar Games<br />
+(4:25:58) - Hope for the future<br />
+<br />
+PODCAST LINKS:<br />
+- Podcast Website: https://lexfridman.com/podcast<br />
+- Apple Podcasts: https://apple.co/2lwqZIr<br />
+- Spotify: https://spoti.fi/2nEwCF8<br />
+- RSS: https://lexfridman.com/feed/podcast/<br />
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4<br />
+- Clips Channel: https://www.youtube.com/lexclips<br />
+<br />
+SOCIAL LINKS:<br />
+- X: https://x.com/lexfridman<br />
+- Instagram: https://instagram.com/lexfridman<br />
+- TikTok: https://tiktok.com/@lexfridman<br />
+- LinkedIn: https://linkedin.com/in/lexfridman<br />
+- Facebook: https://facebook.com/lexfridman<br />
+- Patreon: https://patreon.com/lexfridman<br />
+- Telegram: https://t.me/lexfridman<br />
+- Reddit: https://reddit.com/r/lexfridman
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

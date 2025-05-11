@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>536. Ancient Stories That Bridge The Heavens &amp; The Earth | Jacob Howland - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">The Jordan B. Peterson Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://image.simplecastcdn.com/images/4ffc189d-cacf-4e7d-a45d-df24966561b2/0e604571-6511-4c71-aff7-5188e4860f0f/3000x3000/jbp-podcast-cover-1.png?aid=rss_feed" class="img-fluid mb-4 episode-image" alt="The Jordan B. Peterson Podcast">
+        
+
+        <h1 class="mb-3">536. Ancient Stories That Bridge The Heavens &amp; The Earth | Jacob Howland</h1>
+        <div class="podcast-title">The Jordan B. Peterson Podcast</div>
+        <div class="text-muted mb-4">April 7 at 8:15 PM</div>
+
+        <audio controls class="audio-player" data-guid="6cff9557-45b4-4b87-b387-aa4ff5ad9c71">
+            <source src="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/pfx.vpixl.com/3Q5mz/injector.simplecastaudio.com/4ffc189d-cacf-4e7d-a45d-df24966561b2/episodes/ae60efaf-743a-46ff-91f9-45a40d3da694/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4ffc189d-cacf-4e7d-a45d-df24966561b2&amp;awEpisodeId=ae60efaf-743a-46ff-91f9-45a40d3da694&amp;feed=vsy1m5LV" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Jordan Peterson sits down with author, professor, and Dean of Intellectual Foundations at the University of Austin, Jacob Howland. They discuss man’s finitude and his grasping for the infinite, how orientation can provide limitless abundance or a bottomless fall, where Socrates and the Talmud overlap, and why God offers Abraham adventure as the covenant.
+
+Jacob Howland is the Senior Vice President for Academic Affairs, and Dean of Intellectual Foundations at the University of Austin. Previously he was McFarlin Professor of Philosophy Emeritus at the University of Tulsa, where he taught from 1988 to 2020.
+
+Howland has published five books and roughly sixty scholarly articles and review essays on the thought of Plato, Aristotle, Xenophon, Kierkegaard, the Talmud, the Holocaust, ideological tyranny, and other subjects  A past winner of the University of Tulsa Outstanding Teacher Award and the College of Arts and Sciences Excellence in Teaching Award, he has received grants from the National Endowment for the Humanities, The Littauer Foundation, the Earhart Foundation, and the Koch Foundation, and has lectured in Israel, France, England, Romania, Brazil, Denmark, Norway, and at universities around the United States.  His most recent book is Glaucon’s Fate: History, Myth, and Character in Plato’s Republic, Paul Dry Books, 2018.
+
+This episode was filmed on March 15th, 2025.
+
+
+| Links |
+
+For Jacob Howland:
+
+Read Howland’s most recent publication “Glaucon's Fate: History, Myth, and Character in Plato's Republic” https://a.co/d/7EGH57y 
+
+Howland’s philosophy website and blog https://www.jacobhowland.com/?_sm_nck=1
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

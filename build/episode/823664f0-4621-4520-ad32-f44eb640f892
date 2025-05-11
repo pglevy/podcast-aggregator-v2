@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcement: Acquired Live at Radio City Music Hall! - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Acquired</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://img.transistor.fm/fES9gAnb85yL-kU_eesL1IwgQ9a64JeQM54PseJdglc/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZWVm/MzgyOGZmMzkxOWYz/YWVhNzUwMGUxMGIx/YmY3NS5wbmc.jpg" class="img-fluid mb-4 episode-image" alt="Acquired">
+        
+
+        <h1 class="mb-3">Announcement: Acquired Live at Radio City Music Hall!</h1>
+        <div class="podcast-title">Acquired</div>
+        <div class="text-muted mb-4">April 28 at 3:00 PM</div>
+
+        <audio controls class="audio-player" data-guid="823664f0-4621-4520-ad32-f44eb640f892">
+            <source src="https://media.transistor.fm/2bfc9590/0a521ca1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>A few weeks ago, we told you that Acquired is doing something in New York City on July 15 with our good friends at J.P. Morgan Payments. Well, the big announcement is finally here: We are doing our 2025 Live Show…  at Radio City Music Hall!</p><p>Radio City is of course the iconic New York City theater that hosts the Rockettes and the Tony Awards, and has hosted the Grammys, the MTV VMAs, and the NFL Draft. And it’s also a storied part of Rockefeller Center, as chronicled on our Standard Oil episodes. We can't think of anything more "Acquired".</p><p>If you want to be part of the ticket pre-sale, you can sign up at <a href="https://acquired.fm/nyc">acquired.fm/nyc</a>. While Radio City is the world's largest indoor theater (with room for 6,000 Acquired fans), more than 6,000 folks came to last year's Chase Center show! So get cracking on figuring out which friends and co-workers you want to go with (seats are assigned), and get your hotel + plane tickets booked! Tickets will be available in $100 and $200 tiers.</p><p>This is — without a doubt — the biggest undertaking we've ever done here at Acquired. In true Broadway fashion, we’re keeping the show details under wraps… but trust us, it'll be an evening of surprise and delight. If your idea of fun is the world’s greatest business and technology nerds gathering together for a night on the big stage, this is for you. Oh, and a huge thank you to all our friends at J.P. Morgan for making this possible.</p><p>We can't wait to see you there!</p><p><strong>Sign up for ticket pre-sale:</strong> <a href="https://acquired.fm/nyc">https://acquired.fm/nyc</a></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

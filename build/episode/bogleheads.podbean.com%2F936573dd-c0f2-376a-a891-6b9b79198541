@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episode 81, Greg Zuckerman, author of &#34;The Man Who Solved the Market,&#34; host Rick Ferri - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Bogleheads On Investing Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://pbcdn1.podbean.com/imglogo/image-logo/3450151/bogblog.jpg" class="img-fluid mb-4 episode-image" alt="Bogleheads On Investing Podcast">
+        
+
+        <h1 class="mb-3">Episode 81, Greg Zuckerman, author of &#34;The Man Who Solved the Market,&#34; host Rick Ferri</h1>
+        <div class="podcast-title">Bogleheads On Investing Podcast</div>
+        <div class="text-muted mb-4">April 28 at 12:41 AM</div>
+
+        <audio controls class="audio-player" data-guid="bogleheads.podbean.com%2F936573dd-c0f2-376a-a891-6b9b79198541">
+            <source src="https://mcdn.podbean.com/mf/web/wz2ye925qsp8b4gr/Bogleheads_081.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Greg Zuckerman is an award-winning Special Writer at the Wall Street Journal and the author of several books on financial firms, hedge funds, trading, and other investing and business-related topics. This podcast focuses on trading and the fierce competition individuals face when attempting to trade against sophisticated hedge funds that employ the best and brightest mathematical minds in the business. We discuss Greg's book, The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution.
+ 
+Rick Ferri, CFA, a long-time Boglehead and investment adviser, hosts the Bogleheads on Investing podcast. The Bogleheads are a group of like-minded individual investors who follow the general investment and business beliefs of John C. Bogle, founder and former CEO of the Vanguard Group. It is a conflict-free community where individual investors reach out and provide education, assistance, and relevant information to other investors of all experience levels at no cost. The organization supports a free forum at Bogleheads.org, and the wiki site is Bogleheads® wiki. 
+ 
+Since 2000, the Bogleheads have held national conferences in major cities nationwide. Local Chapters in the US and a few foreign chapters meet regularly. New Chapters are added regularly. All Bogleheads activities are coordinated by volunteers who contribute their time and talent.
+ 
+This podcast is supported by the John C. Bogle Center for Financial Literacy, a non-profit organization approved by the IRS as a 501(c)(3) public charity on February 6, 2012. Your tax-deductible donation to the Bogle Center is appreciated.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

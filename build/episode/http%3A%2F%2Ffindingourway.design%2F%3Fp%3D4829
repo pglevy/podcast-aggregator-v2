@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>58: AI is a Stress Test for Your UX: What Cracks Will It Show? - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Finding Our Way</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://findingourway.design/wp-content/uploads/2024/04/pj-1.jpg" class="img-fluid mb-4 episode-image" alt="Finding Our Way">
+        
+
+        <h1 class="mb-3">58: AI is a Stress Test for Your UX: What Cracks Will It Show?</h1>
+        <div class="podcast-title">Finding Our Way</div>
+        <div class="text-muted mb-4">May 2 at 2:41 PM</div>
+
+        <audio controls class="audio-player" data-guid="http%3A%2F%2Ffindingourway.design%2F%3Fp%3D4829">
+            <source src="https://findingourwaydesign.wordpress.com/wp-content/uploads/2025/05/fow-e58-ux_ai.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Jesse and Peter explore how AI is revealing the true value proposition of design teams. They discuss why "whoever controls the prompt controls the product" and why design leaders must understand their organization's expectations before embracing AI. The more things change, the more they stay the same—AI may be new, but the fundamentals of design leadership remain critical.
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

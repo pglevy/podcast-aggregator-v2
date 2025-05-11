@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#465 – Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Lex Fridman Podcast</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" class="img-fluid mb-4 episode-image" alt="Lex Fridman Podcast">
+        
+
+        <h1 class="mb-3">#465 – Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking</h1>
+        <div class="podcast-title">Lex Fridman Podcast</div>
+        <div class="text-muted mb-4">April 17 at 5:51 PM</div>
+
+        <audio controls class="audio-player" data-guid="https%3A%2F%2Flexfridman.com%2F%3Fp%3D6211">
+            <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_rodriguez.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            Robert Rodriguez is a legendary filmmaker and creator of Sin City, El Mariachi, Desperado, Spy Kids, Machete, From Dusk Till Dawn, Alita: Battle Angel, The Faculty, and his newest venture Brass Knuckle Films.<br />
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep465-sc<br />
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.<br />
+<br />
+Transcript:<br />
+https://lexfridman.com/robert-rodriguez-transcript<br />
+<br />
+CONTACT LEX:<br />
+Feedback - give feedback to Lex: https://lexfridman.com/survey<br />
+AMA - submit questions, videos or call-in: https://lexfridman.com/ama<br />
+Hiring - join our team: https://lexfridman.com/hiring<br />
+Other - other ways to get in touch: https://lexfridman.com/contact<br />
+<br />
+EPISODE LINKS:<br />
+Robert's X: https://x.com/rodriguez<br />
+Robert's Instagram: https://instagram.com/rodriguez/<br />
+Brass Knuckle Films: https://brassknucklefilms.com/<br />
+Rebel without a Crew (book): https://amzn.to/3G7gtQJ<br />
+Rebel without a Crew (audiobook): https://amzn.to/3Ri5wyc<br />
+<br />
+SPONSORS:<br />
+To support this podcast, check out our sponsors & get discounts:<br />
+Invideo AI: AI video generator.<br />
+Go to https://invideo.io/i/lexpod<br />
+Brain.fm: Music for focus.<br />
+Go to https://brain.fm/lex<br />
+NetSuite: Business management software.<br />
+Go to http://netsuite.com/lex<br />
+Shopify: Sell stuff online.<br />
+Go to https://shopify.com/lex<br />
+LMNT: Zero-sugar electrolyte drink mix.<br />
+Go to https://drinkLMNT.com/lex<br />
+<br />
+OUTLINE:<br />
+(00:00) - Introduction<br />
+(10:04) - Explosions and having only one take<br />
+(17:39) - Success and failure<br />
+(26:28) - Filmmaking on a low budget<br />
+(38:41) - El Mariachi<br />
+(50:10) - Creativity<br />
+(1:12:06) - Limitations<br />
+(1:18:22) - Handling criticism<br />
+(1:34:32) - Action films<br />
+(1:45:53) - Quentin Tarantino<br />
+(1:55:52) - Desperado<br />
+(1:56:54) - Salma Hayek<br />
+(2:01:40) - Danny Trejo<br />
+(2:06:55) - Filming in Austin<br />
+(2:13:05) - Editing<br />
+(2:22:35) - Sound design<br />
+(2:27:43) - Deadlines<br />
+(2:31:14) - Alita: Battle Angel<br />
+(2:39:36) - James Cameron<br />
+(2:52:39) - Sin City<br />
+(3:06:48) - Manifesting<br />
+(3:18:12) - Memories and journaling<br />
+(3:27:56) - Mortality<br />
+<br />
+PODCAST LINKS:<br />
+- Podcast Website: https://lexfridman.com/podcast<br />
+- Apple Podcasts: https://apple.co/2lwqZIr<br />
+- Spotify: https://spoti.fi/2nEwCF8<br />
+- RSS: https://lexfridman.com/feed/podcast/<br />
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4<br />
+- Clips Channel: https://www.youtube.com/lexclips
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>

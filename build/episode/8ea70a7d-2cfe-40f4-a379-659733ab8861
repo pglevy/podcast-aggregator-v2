@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Re-wilding Your Digital Illustration Process - Podcast Aggregator</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">Podcast Aggregator</a>
+        </div>
+    </nav>
+
+    <main class="container py-4">
+        
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active">Thoughts on Illustration</li>
+            </ol>
+        </nav>
+
+        
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42558421/42558421-1744702982855-be66281c27ea8.jpg" class="img-fluid mb-4 episode-image" alt="Thoughts on Illustration">
+        
+
+        <h1 class="mb-3">Re-wilding Your Digital Illustration Process</h1>
+        <div class="podcast-title">Thoughts on Illustration</div>
+        <div class="text-muted mb-4">April 15 at 7:43 AM</div>
+
+        <audio controls class="audio-player" data-guid="8ea70a7d-2cfe-40f4-a379-659733ab8861">
+            <source src="https://anchor.fm/s/fe4395b4/podcast/play/101310913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-15%2F01852b2c-d378-587d-fa4b-9326496a4b8d.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <div class="episode-description mt-4">
+            <p>In this episode I share my recent thoughts on what it means to "Re-wild" my illustration process. Inevitably, this means my continued quest to bring more analogue elements back into my process, with the ultimate aim of increasing my joy in the creative process and in the work itself.</p><p><br /></p><p><strong>IN THIS EPISODE</strong></p><ul><li>How style fatigue sparked a shift in my creative practice</li><li>Reconnecting with analogue roots</li><li>Re-wilding as a way of bringing more joy to the creative process</li><li>Finding analogue techniques that mimic digital tools (rather than the other way around)</li><li>What does re-wilding mean for a commercial practice?</li></ul><p><br /></p><p><strong>SHOW LINKS</strong></p><p><a href="https://mrtomfroese.substack.com/p/re-wilding-my-digital-art-process" rel="ugc noopener noreferrer" target="_blank">https://mrtomfroese.substack.com/p/re-wilding-my-digital-art-process</a></p><p><br /></p><p><strong>HOW TO SUPPORT</strong></p><ol><li>Share this episode with your friends!</li><li>Like/Subscribe/Follow/Comment/Review</li><li>Become a $3 Supporter or $8 Drawing Buddy on Patreon. VIsit <a href="http://patreon.com/tomfroese" rel="ugc noopener noreferrer" target="_blank">http://patreon.com/tomfroese</a> to learn more.</li></ol><p><br /></p><p><strong>BECOME A DRAWING BUDDY</strong></p><p>- Live, monthly Draw With Me meetups</p><p>- All past DWMs available as replays</p><p>- Exclusive access to the DWM Discord Server</p><p>http://patreon.com/tomfroese</p><p><br /></p><p><strong>FIND ME ELSEWHERE</strong></p><ul><li>Work and Classes - http://www.tomfroese.com</li><li>Instagram - http://www.instagram.com/mrtomfroese</li><li>Daily Drawings - http://www.instagram.com/drawingisimportant</li></ul><p><br /></p><p><strong>CREDITS</strong></p><p>Music and Cues by Mark Allan Falk - ⁠http://www.linktr.ee/semiathletic⁠⁠</p><p><br /></p>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/player.js"></script>
+</body>
+</html>
