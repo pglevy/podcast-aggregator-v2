@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">#2319 - Rick Doblin</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">Today at 5:00 PM</div>
+        <div class="text-muted mb-4">May 9 at 5:00 PM</div>
 
         <audio controls class="audio-player" data-guid="079603f4-2c5b-11f0-80f4-6795aa6c784d">
             <source src="https://traffic.megaphone.fm/GLT4130310683.mp3?updated=1746797313" type="audio/mpeg">

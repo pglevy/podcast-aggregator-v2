@@ -31,7 +31,7 @@
 
         <h1 class="mb-3">#2318 - Harold &#34;Sonny&#34; White</h1>
         <div class="podcast-title">The Joe Rogan Experience</div>
-        <div class="text-muted mb-4">Yesterday at 5:00 PM</div>
+        <div class="text-muted mb-4">May 8 at 5:00 PM</div>
 
         <audio controls class="audio-player" data-guid="c5f6b062-2b90-11f0-ab60-1fd95d8dbdf3">
             <source src="https://traffic.megaphone.fm/GLT1658949182.mp3?updated=1746741617" type="audio/mpeg">
