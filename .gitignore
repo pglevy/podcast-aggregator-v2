@@ -25,6 +25,9 @@ build/
 *.egg-info/
 *.egg
 
+# Build directory
+build/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
