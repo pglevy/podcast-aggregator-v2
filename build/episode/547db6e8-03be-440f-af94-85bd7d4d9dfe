@@ -34,7 +34,7 @@
         <div class="text-muted mb-4">April 29 at 6:43 PM</div>
 
         <audio controls class="audio-player" data-guid="547db6e8-03be-440f-af94-85bd7d4d9dfe">
-            <source src="https://locator.simplecastcdn.com/df59cda3-c121-40eb-b58b-b6205c3ab64a/ce21709f-8d4e-4a7e-a6c6-a244e547c5d3.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
+            <source src="https://cdn.simplecast.com/audio/df59cda3-c121-40eb-b58b-b6205c3ab64a/episodes/ce21709f-8d4e-4a7e-a6c6-a244e547c5d3/audio/a4ffec70-643d-4e7c-bf94-5b24bd6ac88a/default_tc.mp3?aid=rss_feed&amp;feed=5SEwkJYi" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 
