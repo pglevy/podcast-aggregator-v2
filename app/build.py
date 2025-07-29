@@ -17,5 +17,9 @@ def episode():
     for episode in episodes:
         yield {'guid': episode['guid']}
 
+# Configure Flask-Frozen to handle episode URLs properly
+app.config['FREEZER_DEFAULT_MIMETYPE'] = 'text/html'
+app.config['FREEZER_IGNORE_MIMETYPE_WARNINGS'] = True
+
 if __name__ == '__main__':
     freezer.freeze()
