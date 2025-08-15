@@ -2,52 +2,54 @@
 
 ## Overview
 
-Pod Force is a podcast aggregator application built with Flask that fetches and displays episodes from multiple podcast feeds. The application provides a clean, card-based interface for browsing recent episodes and includes audio playback functionality with progress tracking. This is a work-in-progress rewrite of the original Pod Force application.
+Pod Force is a podcast aggregator application built with Node.js/TypeScript that fetches and displays episodes from multiple podcast feeds. The application provides a clean, card-based interface for browsing recent episodes and includes audio playback functionality with progress tracking and enhanced controls.
 
 ## System Architecture
 
-The application follows a simple Flask web application architecture with the following key characteristics:
+The application follows a modern Node.js/TypeScript architecture with the following key characteristics:
 
-- **Frontend**: Server-side rendered HTML templates using Jinja2 with Bootstrap for styling
-- **Backend**: Flask web framework with Python
+- **Frontend**: Server-side rendered HTML templates using Handlebars with Bootstrap dark theme
+- **Backend**: Express.js web framework with TypeScript
 - **Data Layer**: JSON-based feed configuration with in-memory caching
-- **Static Generation**: Flask-Frozen integration for generating static HTML files
-- **Client-Side**: Vanilla JavaScript for audio player functionality
+- **Static Generation**: TypeScript-based build system for generating static HTML files
+- **Client-Side**: Enhanced JavaScript with modern audio player controls and keyboard shortcuts
 
 ## Key Components
 
 ### Backend Components
 
-**Flask Application (`app/app.py`)**
-- Main web application with two routes: home page and episode detail page
-- Custom template filter for date formatting
+**Express Server (`src/server.ts`)**
+- Main web application with routes for home page and episode detail pages
 - Static file serving configuration
+- Request logging middleware
 
-**Feed Manager (`app/feed_manager.py`)**
-- Handles podcast feed parsing using the `feedparser` library
+**Feed Manager (`src/feed-manager.ts`)**
+- Handles podcast feed parsing using the `rss-parser` library
 - Manages episode caching and date parsing
 - Provides fallback images for podcast artwork
 - Limits episodes per feed to prevent overwhelming the interface
 
-**Static Site Generator (`app/build.py`)**
-- Uses Flask-Frozen to generate static HTML files
+**Template Engine (`src/template-engine.ts`)**
+- Handlebars-based template rendering system
+- Date formatting helpers and utilities
+- Episode and index page rendering
+
+**Static Site Generator (`src/build.ts`)**
+- TypeScript-based build system for generating static HTML files
 - Automatically generates routes for all episodes
 - Outputs to a `build/` directory for deployment
-
-**Feed Converter (`app/convert_feeds.py`)**
-- Utility for converting YAML feed subscriptions to JSON format
-- Merges existing feeds with new ones
 
 ### Frontend Components
 
 **Templates**
-- `base.html`: Base template with Bootstrap dark theme and navigation
-- `index.html`: Episode listing page with card-based layout
-- `episode.html`: Individual episode page with audio player
+- `base.hbs`: Base template with Bootstrap dark theme and navigation
+- `index.hbs`: Episode listing page with card-based layout
+- `episode.hbs`: Individual episode page with enhanced audio player
 
 **Static Assets**
-- `custom.css`: Custom styling for episode cards and audio player
-- `player.js`: JavaScript class for audio playback progress tracking
+- `main.css`: Modern CSS with CSS variables and dark theme
+- `custom.css`: Additional styling for episode cards and audio player
+- `main.js`: Enhanced JavaScript with toast notifications and audio controls
 
 ### Data Storage
 
@@ -59,24 +61,26 @@ The application follows a simple Flask web application architecture with the fol
 ## Data Flow
 
 1. **Feed Loading**: Application loads podcast feeds from `feeds.json`
-2. **Feed Parsing**: FeedManager fetches and parses RSS/XML feeds using feedparser
+2. **Feed Parsing**: FeedManager fetches and parses RSS/XML feeds using rss-parser
 3. **Episode Caching**: Parsed episodes are cached in memory for performance
-4. **Template Rendering**: Episodes are passed to Jinja2 templates for HTML generation
-5. **Static Generation**: Flask-Frozen can generate static HTML files for deployment
-6. **Client Interaction**: JavaScript handles audio playback and progress persistence
+4. **Template Rendering**: Episodes are passed to Handlebars templates for HTML generation
+5. **Static Generation**: TypeScript build system can generate static HTML files for deployment
+6. **Client Interaction**: Enhanced JavaScript handles audio playback, progress persistence, and user interactions
 
 ## External Dependencies
 
-### Python Libraries
-- **Flask**: Web framework for routing and templating
-- **feedparser**: RSS/XML feed parsing
-- **Flask-Frozen**: Static site generation
-- **PyYAML**: YAML file processing (for feed conversion)
+### Node.js/TypeScript Libraries
+- **Express**: Web framework for routing and middleware
+- **rss-parser**: RSS/XML feed parsing
+- **Handlebars**: Template engine for HTML generation
+- **TypeScript**: Type-safe JavaScript development
+- **chokidar**: File watching for auto-rebuild functionality
+- **node-cron**: Scheduled task management
 
 ### Frontend Dependencies
 - **Bootstrap 5.3**: CSS framework with dark theme
 - **Bootstrap Icons**: Icon library via CDN
-- **Feather Icons**: Alternative icon set for fallbacks
+- **Custom CSS**: Enhanced styling with CSS variables and dark theme
 
 ### External Services
 - **Podcast RSS Feeds**: Various podcast hosting services (Simplecast, Megaphone, etc.)
@@ -84,14 +88,15 @@ The application follows a simple Flask web application architecture with the fol
 
 ## Deployment Strategy
 
-The application supports two deployment modes:
+The application supports multiple deployment modes:
 
 **Development Mode**
-- Direct Flask development server (`python main.py`)
+- TypeScript development server with auto-compilation
 - Hot reloading enabled for rapid development
+- Auto-rebuild watcher with scheduled feed updates
 
 **Static Site Generation**
-- Flask-Frozen generates static HTML files
+- TypeScript build system generates static HTML files
 - Output stored in `build/` directory
 - Can be deployed to any static hosting service
 - All episode pages are pre-generated for performance

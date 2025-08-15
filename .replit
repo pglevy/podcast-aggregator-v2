@@ -14,10 +14,6 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
-args = "Build Test"
-
-[[workflows.workflow.tasks]]
-task = "workflow.run"
 args = "TypeScript Dev Server"
 
 [[workflows.workflow.tasks]]
@@ -31,20 +27,6 @@ args = "Node TypeScript Server"
 [[workflows.workflow.tasks]]
 task = "workflow.run"
 args = "Auto Rebuild Watcher"
-
-[[workflows.workflow]]
-name = "Build Test"
-author = "agent"
-
-[workflows.workflow.metadata]
-agentRequireRestartOnSave = false
-
-[[workflows.workflow.tasks]]
-task = "packager.installForAll"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "python -m app.build"
 
 [[workflows.workflow]]
 name = "TypeScript Dev Server"
