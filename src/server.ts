@@ -101,10 +101,16 @@ export class PodcastServer {
   }
 
   async start(): Promise<void> {
-    return new Promise((resolve) => {
-      this.app.listen(this.port, '0.0.0.0', () => {
+    return new Promise((resolve, reject) => {
+      const server = this.app.listen(this.port, '0.0.0.0', () => {
         console.log(`🎧 Pod Force server running on http://0.0.0.0:${this.port}`);
+        console.log(`📺 Preview available at: https://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co`);
         resolve();
+      });
+      
+      server.on('error', (error) => {
+        console.error('❌ Server error:', error);
+        reject(error);
       });
     });
   }
