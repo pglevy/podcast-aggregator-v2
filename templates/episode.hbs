@@ -1,0 +1,160 @@
+{{#> base}}
+<nav aria-label="breadcrumb" class="mb-4">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="/"><i class="bi bi-house me-1"></i>Home</a>
+        </li>
+        <li class="breadcrumb-item">{{episode.feedName}}</li>
+        <li class="breadcrumb-item active" aria-current="page">Episode</li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card border-0 shadow-sm mb-4">
+            <div class="card-body">
+                <div class="row g-4">
+                    <div class="col-auto">
+                        <img src="{{episode.image}}" 
+                             alt="{{episode.title}}" 
+                             class="episode-artwork-large rounded shadow"
+                             onerror="this.src='https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/podcast.svg'">
+                    </div>
+                    <div class="col">
+                        <span class="badge bg-primary mb-2">{{episode.feedName}}</span>
+                        <h1 class="h3 mb-3">{{episode.title}}</h1>
+                        
+                        <div class="episode-meta mb-4">
+                            <div class="row g-3 text-muted small">
+                                <div class="col-auto">
+                                    <i class="bi bi-calendar3 me-1"></i>
+                                    {{formatDate episode.published}}
+                                </div>
+                                {{#if episode.duration}}
+                                <div class="col-auto">
+                                    <i class="bi bi-clock me-1"></i>
+                                    {{formatDuration episode.duration}}
+                                </div>
+                                {{/if}}
+                                {{#if episode.link}}
+                                <div class="col-auto">
+                                    <a href="{{episode.link}}" target="_blank" class="text-decoration-none">
+                                        <i class="bi bi-box-arrow-up-right me-1"></i>
+                                        Original Post
+                                    </a>
+                                </div>
+                                {{/if}}
+                            </div>
+                        </div>
+
+                        <div class="description">
+                            <p class="mb-0">{{episode.description}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Audio Player -->
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title mb-3">
+                    <i class="bi bi-headphones me-2"></i>
+                    Audio Player
+                </h5>
+                
+                <div class="audio-player-container">
+                    <audio id="audio-player" class="d-none" preload="metadata">
+                        <source src="{{episode.audioUrl}}" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                    
+                    <div class="custom-audio-player">
+                        <div class="player-controls mb-3">
+                            <div class="d-flex align-items-center gap-3">
+                                <button id="play-pause-btn" class="btn btn-primary btn-lg rounded-circle" title="Play/Pause">
+                                    <i class="bi bi-play-fill"></i>
+                                </button>
+                                
+                                <button id="rewind-btn" class="btn btn-outline-secondary" title="Rewind 10 seconds">
+                                    <i class="bi bi-skip-backward me-1"></i>
+                                    10s
+                                </button>
+                                
+                                <button id="forward-btn" class="btn btn-outline-secondary" title="Forward 10 seconds">
+                                    10s
+                                    <i class="bi bi-skip-forward ms-1"></i>
+                                </button>
+                                
+                                <div class="volume-control d-flex align-items-center gap-2 ms-auto">
+                                    <i class="bi bi-volume-up"></i>
+                                    <input type="range" id="volume-slider" class="form-range" min="0" max="100" value="100" style="width: 100px;">
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="progress-container mb-2">
+                            <div class="d-flex justify-content-between small text-muted mb-1">
+                                <span id="current-time">0:00</span>
+                                <span id="total-time">0:00</span>
+                            </div>
+                            <div class="progress" style="height: 8px; cursor: pointer;" id="progress-bar">
+                                <div class="progress-bar bg-primary" role="progressbar" id="progress-fill" style="width: 0%"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="playback-speed d-flex align-items-center gap-2">
+                            <label for="speed-select" class="form-label mb-0 small">Speed:</label>
+                            <select id="speed-select" class="form-select form-select-sm" style="width: auto;">
+                                <option value="0.5">0.5x</option>
+                                <option value="0.75">0.75x</option>
+                                <option value="1" selected>1x</option>
+                                <option value="1.25">1.25x</option>
+                                <option value="1.5">1.5x</option>
+                                <option value="2">2x</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4">
+        <div class="card border-0 shadow-sm">
+            <div class="card-header">
+                <h6 class="mb-0">
+                    <i class="bi bi-info-circle me-2"></i>
+                    Episode Information
+                </h6>
+            </div>
+            <div class="card-body">
+                <dl class="row mb-0">
+                    <dt class="col-sm-4">Podcast:</dt>
+                    <dd class="col-sm-8">{{episode.feedName}}</dd>
+                    
+                    <dt class="col-sm-4">Published:</dt>
+                    <dd class="col-sm-8">{{formatDate episode.published}}</dd>
+                    
+                    {{#if episode.duration}}
+                    <dt class="col-sm-4">Duration:</dt>
+                    <dd class="col-sm-8">{{formatDuration episode.duration}}</dd>
+                    {{/if}}
+                    
+                    <dt class="col-sm-4">GUID:</dt>
+                    <dd class="col-sm-8">
+                        <code class="small">{{episode.guid}}</code>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Initialize enhanced audio player for this episode
+document.addEventListener('DOMContentLoaded', function() {
+    const player = new EnhancedAudioPlayer('audio-player', '{{episode.guid}}');
+});
+</script>
+{{/base}}

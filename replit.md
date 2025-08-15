@@ -98,6 +98,13 @@ The application supports two deployment modes:
 
 ## Changelog
 
+- August 15, 2025. Complete refactor to Node.js/TypeScript with enhanced features
+  - Migrated from Python/Flask to Node.js/TypeScript architecture
+  - Added enhanced audio player with rewind/forward controls (10-second jumps)
+  - Implemented modern Bootstrap dark theme with improved responsive design
+  - Added auto-rebuild functionality with scheduled feed updates
+  - Maintained all original functionality (feed aggregation, episode listing, static generation)
+  - Enhanced progress tracking and keyboard shortcuts for audio player
 - July 07, 2025. Initial setup
 
 ## User Preferences

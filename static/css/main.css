@@ -1,0 +1,377 @@
+/* Pod Force - Modern Podcast Aggregator Styles */
+
+:root {
+  --primary-color: #6366f1;
+  --secondary-color: #8b5cf6;
+  --success-color: #10b981;
+  --warning-color: #f59e0b;
+  --danger-color: #ef4444;
+  --dark-color: #1f2937;
+  --light-color: #f8fafc;
+  --border-radius: 12px;
+  --transition: all 0.3s ease;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* Global Styles */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  padding-top: 76px; /* Account for fixed navbar */
+}
+
+.main-content {
+  min-height: calc(100vh - 200px);
+}
+
+/* Navigation */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: var(--transition);
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Hero Section */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  border: none !important;
+}
+
+.hero-section .text-primary {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Episode Cards */
+.episode-card {
+  transition: var(--transition);
+  border-radius: var(--border-radius) !important;
+  overflow: hidden;
+}
+
+.episode-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg) !important;
+}
+
+.episode-artwork-container {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.episode-artwork {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: var(--transition);
+}
+
+.episode-artwork-large {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.episode-card:hover .episode-artwork {
+  transform: scale(1.05);
+}
+
+.card-title a {
+  color: inherit;
+  transition: var(--transition);
+}
+
+.card-title a:hover {
+  color: var(--primary-color) !important;
+}
+
+/* Episode Meta */
+.episode-meta {
+  font-size: 0.875rem;
+}
+
+.episode-meta a {
+  color: var(--primary-color);
+  transition: var(--transition);
+}
+
+.episode-meta a:hover {
+  color: var(--secondary-color);
+}
+
+/* Buttons */
+.btn {
+  border-radius: 8px;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  border: none;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+  transform: translateY(-1px);
+}
+
+.btn-outline-secondary {
+  border-color: rgba(108, 117, 125, 0.3);
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+/* Badges */
+.badge {
+  font-weight: 500;
+  padding: 0.375rem 0.75rem;
+  border-radius: 6px;
+}
+
+/* Cards */
+.card {
+  border-radius: var(--border-radius) !important;
+  transition: var(--transition);
+}
+
+.card-header {
+  background: rgba(var(--bs-primary-rgb), 0.1);
+  border-bottom: 1px solid rgba(var(--bs-border-color-rgb), 0.2);
+  font-weight: 600;
+}
+
+/* Audio Player Styles */
+.audio-player-container {
+  background: rgba(var(--bs-secondary-rgb), 0.05);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+}
+
+.custom-audio-player {
+  width: 100%;
+}
+
+.player-controls button {
+  transition: var(--transition);
+}
+
+.player-controls button:hover {
+  transform: translateY(-1px);
+}
+
+#play-pause-btn {
+  width: 60px;
+  height: 60px;
+  font-size: 1.5rem;
+}
+
+#play-pause-btn i {
+  margin-left: 2px; /* Optical alignment for play icon */
+}
+
+#play-pause-btn.playing i {
+  margin-left: 0;
+}
+
+.progress-container {
+  user-select: none;
+}
+
+.progress {
+  border-radius: 4px;
+  background-color: rgba(var(--bs-secondary-rgb), 0.2);
+}
+
+.progress-bar {
+  border-radius: 4px;
+  transition: width 0.1s ease;
+}
+
+.volume-control input[type="range"] {
+  accent-color: var(--primary-color);
+}
+
+.playback-speed select {
+  border-radius: 6px;
+}
+
+/* Form Elements */
+.form-control, .form-select {
+  border-radius: 8px;
+  border-color: rgba(var(--bs-border-color-rgb), 0.3);
+  transition: var(--transition);
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.2rem rgba(99, 102, 241, 0.25);
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  background: rgba(var(--bs-secondary-rgb), 0.1);
+  border-radius: var(--border-radius);
+  padding: 0.75rem 1rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "›";
+  font-weight: 600;
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid rgba(var(--bs-border-color-rgb), 0.2);
+  margin-top: 3rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 2rem 1rem !important;
+  }
+  
+  .hero-section .display-4 {
+    font-size: 2rem;
+  }
+  
+  .episode-artwork-container {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .episode-artwork-large {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .player-controls {
+    flex-wrap: wrap;
+    gap: 0.5rem !important;
+  }
+  
+  .volume-control {
+    order: 3;
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  body {
+    padding-top: 70px;
+  }
+  
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .episode-card .row {
+    --bs-gutter-x: 0.75rem;
+  }
+  
+  .btn-group-sm .btn {
+    font-size: 0.75rem;
+  }
+}
+
+/* Dark Theme Enhancements */
+[data-bs-theme="dark"] {
+  --bs-body-bg: #0d1117;
+  --bs-body-color: #f0f6fc;
+}
+
+[data-bs-theme="dark"] .card {
+  background-color: #161b22;
+  border-color: #30363d;
+}
+
+[data-bs-theme="dark"] .episode-card:hover {
+  background-color: #1c2128;
+}
+
+[data-bs-theme="dark"] .audio-player-container {
+  background-color: rgba(240, 246, 252, 0.05);
+}
+
+[data-bs-theme="dark"] .breadcrumb {
+  background-color: rgba(240, 246, 252, 0.05);
+}
+
+/* Loading States */
+.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.loading::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+  border: 2px solid transparent;
+  border-top: 2px solid var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Animations */
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Utility Classes */
+.text-gradient {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.border-gradient {
+  border: 2px solid;
+  border-image: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) 1;
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
