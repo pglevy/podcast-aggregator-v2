@@ -34,12 +34,38 @@ export class PodcastServer {
   }
 
   private setupRoutes(): void {
+    // Test page
+    this.app.get('/test', async (req, res) => {
+      try {
+        const episodes = await this.feedManager.getAllEpisodes();
+        episodes.sort((a, b) => b.published - a.published);
+        console.log(`Test page - Rendering with ${episodes.length} episodes`);
+        
+        const html = await this.templateEngine.render('test', {
+          episodes,
+          title: 'Test Page'
+        });
+        
+        res.send(html);
+      } catch (error) {
+        console.error('Error rendering test page:', error);
+        res.status(500).send('Internal Server Error');
+      }
+    });
+
     // Home page
     this.app.get('/', async (req, res) => {
       try {
         const episodes = await this.feedManager.getAllEpisodes();
         episodes.sort((a, b) => b.published - a.published);
         console.log(`Rendering with ${episodes.length} episodes`);
+        console.log('First episode sample:', episodes[0] ? { 
+          title: episodes[0].title, 
+          feedName: episodes[0].feedName,
+          guid: episodes[0].guid,
+          published: episodes[0].published 
+        } : 'No episodes');
+        console.log('Episode keys:', episodes[0] ? Object.keys(episodes[0]) : 'No episodes');
         
         const html = await this.templateEngine.render('index', {
           episodes,

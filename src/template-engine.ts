@@ -66,6 +66,7 @@ export class TemplateEngine {
       const baseTemplatePath = path.join(__dirname, '..', 'templates', 'base.hbs');
       const baseTemplateContent = await fs.readFile(baseTemplatePath, 'utf-8');
       Handlebars.registerPartial('base', baseTemplateContent);
+      console.log('Registered base partial successfully');
     } catch (error) {
       console.error('Error registering base partial:', error);
     }

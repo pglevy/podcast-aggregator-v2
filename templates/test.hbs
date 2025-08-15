@@ -1,0 +1,20 @@
+{{#> base}}
+{{#*inline "body"}}
+<h1>Test Template</h1>
+<p>Episodes length: {{episodes.length}}</p>
+<p>First episode test: {{#if episodes.[0]}}{{episodes.[0].title}}{{else}}No first episode{{/if}}</p>
+
+<h2>Simple Each Test:</h2>
+{{#each episodes}}
+<div>Episode: {{title}} - {{feedName}}</div>
+{{/each}}
+
+<h2>Manual Index Test:</h2>
+{{#if episodes.[0]}}
+<div>Episode 0: {{episodes.[0].title}}</div>
+{{/if}}
+{{#if episodes.[1]}}
+<div>Episode 1: {{episodes.[1].title}}</div>
+{{/if}}
+{{/inline}}
+{{/base}}
