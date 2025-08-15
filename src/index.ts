@@ -24,7 +24,9 @@ async function main() {
     
   } catch (error) {
     console.error('❌ Failed to start server:', error);
-    console.error(error.stack);
+    if (error instanceof Error) {
+      console.error(error.stack);
+    }
     process.exit(1);
   }
 }
