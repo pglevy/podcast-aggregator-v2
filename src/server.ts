@@ -39,6 +39,7 @@ export class PodcastServer {
       try {
         const episodes = await this.feedManager.getAllEpisodes();
         episodes.sort((a, b) => b.published - a.published);
+        console.log(`Rendering with ${episodes.length} episodes`);
         
         const html = await this.templateEngine.render('index', {
           episodes,
