@@ -5,7 +5,7 @@ channel = "stable-24_05"
 packages = ["libyaml"]
 
 [workflows]
-runButton = "Project"
+runButton = "Main Server"
 
 [[workflows.workflow]]
 name = "Project"
@@ -91,6 +91,15 @@ args = "cd /home/runner/workspace && node dist/watcher.js"
 
 [workflows.workflow.metadata]
 outputType = "console"
+
+[[workflows.workflow]]
+name = "Main Server"
+author = 16926641
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd /home/runner/workspace && npx tsc && node dist/index.js"
 
 [deployment]
 deploymentTarget = "static"
