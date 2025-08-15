@@ -18,14 +18,6 @@ args = "TypeScript Dev Server"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
-args = "Static Site Build"
-
-[[workflows.workflow.tasks]]
-task = "workflow.run"
-args = "Node TypeScript Server"
-
-[[workflows.workflow.tasks]]
-task = "workflow.run"
 args = "Auto Rebuild Watcher"
 
 [[workflows.workflow]]
@@ -35,29 +27,6 @@ author = "agent"
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "cd /home/runner/workspace && npx tsc && node dist/index.js"
-waitForPort = 5000
-
-[workflows.workflow.metadata]
-outputType = "webview"
-
-[[workflows.workflow]]
-name = "Static Site Build"
-author = "agent"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "cd /home/runner/workspace && node dist/build.js"
-
-[workflows.workflow.metadata]
-outputType = "console"
-
-[[workflows.workflow]]
-name = "Node TypeScript Server"
-author = "agent"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "cd /home/runner/workspace && node dist/index.js"
 waitForPort = 5000
 
 [workflows.workflow.metadata]

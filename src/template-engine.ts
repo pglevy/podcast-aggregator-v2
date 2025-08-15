@@ -7,6 +7,7 @@ import { FeedManager } from './feed-manager';
 export class TemplateEngine {
   private templates: Map<string, HandlebarsTemplateDelegate> = new Map();
   private feedManager: FeedManager;
+  private partialsRegistered = false;
 
   constructor(feedManager: FeedManager) {
     this.feedManager = feedManager;
@@ -60,6 +61,16 @@ export class TemplateEngine {
     });
   }
 
+  private async registerPartials(): Promise<void> {
+    try {
+      const baseTemplatePath = path.join(__dirname, '..', 'templates', 'base.hbs');
+      const baseTemplateContent = await fs.readFile(baseTemplatePath, 'utf-8');
+      Handlebars.registerPartial('base', baseTemplateContent);
+    } catch (error) {
+      console.error('Error registering base partial:', error);
+    }
+  }
+
   async loadTemplate(templateName: string): Promise<HandlebarsTemplateDelegate> {
     if (this.templates.has(templateName)) {
       return this.templates.get(templateName)!;
@@ -74,6 +85,10 @@ export class TemplateEngine {
   }
 
   async render(templateName: string, data: TemplateData): Promise<string> {
+    if (!this.partialsRegistered) {
+      await this.registerPartials();
+      this.partialsRegistered = true;
+    }
     const template = await this.loadTemplate(templateName);
     return template(data);
   }
