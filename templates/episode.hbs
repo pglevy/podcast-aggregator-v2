@@ -1,4 +1,5 @@
 {{#> base}}
+{{#*inline "body"}}
 <nav aria-label="breadcrumb" class="mb-4">
     <ol class="breadcrumb">
         <li class="breadcrumb-item">
@@ -157,4 +158,5 @@ document.addEventListener('DOMContentLoaded', function() {
     const player = new EnhancedAudioPlayer('audio-player', '{{episode.guid}}');
 });
 </script>
+{{/inline}}
 {{/base}}
