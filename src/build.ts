@@ -27,6 +27,9 @@ export class StaticSiteBuilder {
     await this.buildHomePage();
     await this.buildEpisodePages();
     
+    // Add .nojekyll file for GitHub Pages
+    await fs.writeFile(path.join(this.buildDir, '.nojekyll'), '');
+    
     console.log('✅ Static site build completed!');
   }
 
@@ -45,10 +48,13 @@ export class StaticSiteBuilder {
     const episodes = await this.feedManager.getAllEpisodes();
     episodes.sort((a, b) => b.published - a.published);
     
-    const html = await this.templateEngine.render('index', {
+    let html = await this.templateEngine.render('index', {
       episodes,
       title: 'Pod Force - Podcast Aggregator'
     });
+    
+    // Fix episode links for static deployment
+    html = this.fixEpisodeLinks(html);
     
     await fs.writeFile(path.join(this.buildDir, 'index.html'), html);
   }
@@ -74,6 +80,15 @@ export class StaticSiteBuilder {
     }
     
     console.log(`Built ${episodes.length} episode pages`);
+  }
+
+  private fixEpisodeLinks(html: string): string {
+    // Convert dynamic episode URLs to static file paths
+    // Replace /episode/{guid} with /episode/{encoded_guid}.html
+    return html.replace(/\/episode\/([^"'\s]+)/g, (match, guid) => {
+      const filename = encodeURIComponent(decodeURIComponent(guid)).replace(/%/g, '_');
+      return `/episode/${filename}.html`;
+    });
   }
 }
 
